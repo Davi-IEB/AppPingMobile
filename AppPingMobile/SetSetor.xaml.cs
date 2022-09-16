@@ -24,17 +24,20 @@ namespace AppPingMobile
                 BtnUsinagem.Source = "usinagemIgarassu";
             }
         }
-        private void BtnEstamparia_Clicked(object sender, EventArgs e)
+        private async void BtnEstamparia_Clicked(object sender, EventArgs e)
         {
-
+            Empresas.Setor = "ESTAMPARIA";
+            await Navigation.PushAsync(new SetCentros());
         }
-        private void BtnSolda_Clicked(object sender, EventArgs e)
+        private async void BtnSolda_Clicked(object sender, EventArgs e)
         {
-
+            Empresas.Setor = "SOLDA";
+            await Navigation.PushAsync(new SetCentros());
         }
-        private void BtnUsinagem_Clicked(object sender, EventArgs e)
+        private async void BtnUsinagem_Clicked(object sender, EventArgs e)
         {
-
+            Empresas.Setor = "USINAGEM";
+            await Navigation.PushAsync(new SetCentros());
         }
     }
 }

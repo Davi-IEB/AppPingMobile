@@ -12,6 +12,12 @@ namespace AppPingMobile.Modelo
             get { return _empresa; }
             set { _empresa = value; }
         }
+        private static string _setor;
+        public static string Setor
+        {
+            get { return _setor; }
+            set { _setor = value; }
+        }
     }
     public class Centros
     {
@@ -20,5 +26,14 @@ namespace AppPingMobile.Modelo
         public string Setor { get; set; }
         public string Cod_cent_trab { get; set; }
         public string Den_cent_trab { get; set; }
+    }
+
+    public class Maquinas
+    {
+        public string Cod_empresa { get; set; }
+        public string Cod_cent_trab { get; set; }
+        public string Cod_equip { get; set; }
+
+
     }
 }
