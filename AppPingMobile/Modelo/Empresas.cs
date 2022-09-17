@@ -18,6 +18,13 @@ namespace AppPingMobile.Modelo
             get { return _setor; }
             set { _setor = value; }
         }
+        private static string _centro;
+        public static string Centro
+        {
+            get { return _centro; }
+            set { _centro = value; }
+        }
+
     }
     public class Centros
     {
@@ -32,7 +39,9 @@ namespace AppPingMobile.Modelo
     {
         public string Cod_empresa { get; set; }
         public string Cod_cent_trab { get; set; }
+        public string Den_cent_trab { get; set; }
         public string Cod_equip { get; set; }
+        public decimal Horas_necessarias { get; set; }
 
 
     }
