@@ -27,7 +27,6 @@
                                 <Image Source="marcaTransp" Margin="20,0,0,0" HeightRequest="80" WidthRequest="80" VerticalOptions="CenterAndExpand"/>
                                 <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
                                     <Label Text="{Binding Cod_cent_trab}" Margin="10,0,0,0" FontSize="Title" TextColor="Black" FontAttributes="Bold"/>
-                                    <BoxView BackgroundColor="Gray" HeightRequest="1"/>
                                     <Label Text="{Binding Den_cent_trab}" Margin="10,0,0,0" FontSize="Subtitle" FontAttributes="Bold" TextColor="Gray"/>
                                 </StackLayout>
                             </StackLayout>
