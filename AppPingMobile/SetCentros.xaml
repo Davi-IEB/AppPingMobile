@@ -4,7 +4,7 @@
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              x:Class="AppPingMobile.SetCentros"
              Style="{StaticResource PageStyle}"
-             Title="Setores">
+             Title="Planejamento e Controle de Produção - Centros de Trabalho">
     <ContentPage.ToolbarItems>
         <ToolbarItem IconImageSource="LogoPingTransp.ico"/>
     </ContentPage.ToolbarItems>
@@ -33,9 +33,10 @@
                                         HeightRequest="100" 
                                         WidthRequest="100" 
                                         VerticalOptions="CenterAndExpand"
+                                        IsEnabled="False"
                                         android:ImageButton.IsShadowEnabled="true"
                                         android:ImageButton.ShadowColor="Gray"
-                                        android:ImageButton.ShadowRadius="12">
+                                        android:ImageButton.ShadowRadius="12">                                    
                                     <android:ImageButton.ShadowOffset>
                                         <Size>
                                             <x:Arguments>
@@ -50,7 +51,7 @@
                                     <Label Text="{Binding Den_cent_trab}" Margin="10,0,0,0" FontSize="Subtitle" FontAttributes="Bold" TextColor="Gray"/>
                                 </StackLayout>
                             </StackLayout>
-                        </ViewCell>
+                        </ViewCell>                       
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
