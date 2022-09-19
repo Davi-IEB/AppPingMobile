@@ -51,7 +51,6 @@
                                 </StackLayout>
                             </StackLayout>
                         </ViewCell>
-                        
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

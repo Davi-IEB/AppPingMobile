@@ -35,7 +35,6 @@ namespace AppPingMobile
             Empresas.Centro = cent.Cod_cent_trab;
             await Navigation.PushAsync(new Maquinas());
         }
-
         private void Linha_Tapped(object sender, EventArgs e)
         {
             if (cell != null)
