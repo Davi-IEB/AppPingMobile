@@ -17,13 +17,6 @@ namespace AppPingMobile
             InitializeComponent();
             dataService = new ServicoDeDados();
             AtualizaDados();
-            
-
-
-
-            //lbl.Text = Empresas.Maquina.ToString();
-
-
         }
         private async void AtualizaDados()
         {
