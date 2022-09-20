@@ -1,5 +1,5 @@
 ﻿using AppPingMobile.Modelo;
-using System;
+using AppPingMobile.Servico;
 using System.Collections.Generic;
 using System.Linq;
 using Xamarin.Forms;
@@ -10,12 +10,26 @@ namespace AppPingMobile
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Programacao : ContentPage
     {
+        ServicoDeDados dataService;
+        List<Programa> programas;
         public Programacao()
         {
             InitializeComponent();
-            lbl.Text = Empresas.Maquina.ToString();
+            dataService = new ServicoDeDados();
+            AtualizaDados();
             
 
+
+
+            //lbl.Text = Empresas.Maquina.ToString();
+
+
         }
+        private async void AtualizaDados()
+        {
+            programas = await dataService.GetProgramaAsync();
+            var query = from i in programas where i.Cod_empresa == Empresas.Empresa.ToString() select i;
+        }
+
     }
 }

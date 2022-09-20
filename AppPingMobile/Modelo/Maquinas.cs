@@ -20,4 +20,22 @@ namespace AppPingMobile.Modelo
     {
         public static decimal HDisponivel { get; set; }
     }
+
+    public class Programa
+    {
+        public string Cod_empresa { get; set; }
+        public string Alerta { get; set; }
+        public string Sequencia { get; set; }
+        public string Num_programa { get; set; }
+        public string Data_programa { get; set; }
+        public string Cod_equip { get; set; }
+        public string Num_ordem { get; set; }
+        public string Ies_situa { get; set; }
+        public string Cod_item_cliente { get; set; }
+        public string Cod_item { get; set; }
+        public string Operacao { get; set; }
+        public string Qtd_planej { get; set; }
+        public string Qtd_boas { get; set; }
+        public string Qtd_percentual { get; set; }
+    }
 }
