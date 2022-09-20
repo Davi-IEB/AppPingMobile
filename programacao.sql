@@ -24,7 +24,8 @@ ORD.cod_item,
 trim(MPI.operacao) || ' - ' || trim(OP.den_operac) AS operacao,
 ORD.qtd_planej,
 ORD.qtd_boas,
-CAST(ORD.qtd_boas / ORD.qtd_planej AS DECIMAL(10,3)) AS qtd_percentual
+CAST(ORD.qtd_boas / ORD.qtd_planej AS DECIMAL(10,3)) AS qtd_percentual,
+PM.obs_alerta
 
 FROM tb_programa_maquina_970 PM
 LEFT JOIN ordens ORD ON ORD.cod_empresa=PM.cod_empresa AND ORD.num_ordem=PM.num_ordem
@@ -35,4 +36,3 @@ LEFT JOIN operacao OP ON OP.cod_empresa=MPI.empresa AND OP.cod_operac=MPI.operac
 WHERE ORD.ies_situa IN('2','3','4')
 AND MPI.operacao NOT IN('042','199')
 AND MPI.validade_final IS NULL
-

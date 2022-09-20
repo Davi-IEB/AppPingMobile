@@ -72,7 +72,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA PORÉM LIBERADA."
  },
  {
   "cod_empresa": 1,
@@ -87,7 +88,8 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "SO PRODUZIR COM ACOMPANHAMENTO DO BRUNO"
  },
  {
   "cod_empresa": 1,
@@ -163,21 +165,6 @@
   "qtd_planej": 6000,
   "qtd_boas": 3202,
   "qtd_percentual": 0.534
- },
- {
-  "cod_empresa": 1,
-  "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 27011,
-  "data_programa": "09\/08\/2022 6:58",
-  "num_ordem": 13661855,
-  "ies_situa": 4,
-  "cod_item_cliente": "53831_832K1010",
-  "cod_item": 51000350210010,
-  "operacao": "003 - CORTAR BLANK",
-  "qtd_planej": 3379,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
  },
  {
   "cod_empresa": 1,
@@ -371,8 +358,8 @@
   "cod_item": 100000034200,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
-  "qtd_boas": 3390,
-  "qtd_percentual": 0.565
+  "qtd_boas": 3410,
+  "qtd_percentual": 0.568
  },
  {
   "cod_empresa": 1,
@@ -386,8 +373,8 @@
   "cod_item": 100000034200,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
-  "qtd_boas": 3390,
-  "qtd_percentual": 0.565
+  "qtd_boas": 3410,
+  "qtd_percentual": 0.568
  },
  {
   "cod_empresa": 1,
@@ -602,7 +589,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 4,
+  "sequencia": 3,
   "num_programa": 26600,
   "data_programa": "09\/02\/2022 9:20",
   "num_ordem": 13584711,
@@ -617,7 +604,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 5,
+  "sequencia": 4,
   "num_programa": 26601,
   "data_programa": "09\/02\/2022 9:21",
   "num_ordem": 13584621,
@@ -677,7 +664,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 3,
+  "sequencia": 2,
   "num_programa": 27081,
   "data_programa": "09\/08\/2022 8:54",
   "num_ordem": 13662614,
@@ -717,7 +704,8 @@
   "operacao": "054 - MONTAR SCJ. MANUALMENTE",
   "qtd_planej": 432,
   "qtd_boas": 72,
-  "qtd_percentual": 0.167
+  "qtd_percentual": 0.167,
+  "obs_alerta": "URGENTE"
  },
  {
   "cod_empresa": 1,
@@ -752,7 +740,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 9,
+  "sequencia": 8,
   "num_programa": 26828,
   "data_programa": "09\/05\/2022 12:47",
   "num_ordem": 13607430,
@@ -782,7 +770,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 10,
+  "sequencia": 9,
   "num_programa": 26872,
   "data_programa": "09\/06\/2022 7:33",
   "num_ordem": 13631714,
@@ -1097,7 +1085,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 3,
+  "sequencia": 2,
   "num_programa": 27081,
   "data_programa": "09\/08\/2022 8:54",
   "num_ordem": 13662623,
@@ -1196,8 +1184,8 @@
   "cod_item": 87000031430020,
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 5000,
-  "qtd_boas": 3328,
-  "qtd_percentual": 0.666
+  "qtd_boas": 3753,
+  "qtd_percentual": 0.751
  },
  {
   "cod_empresa": 1,
@@ -1292,7 +1280,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 2,
+  "sequencia": 1,
   "num_programa": 27139,
   "data_programa": "09\/08\/2022 13:03",
   "num_ordem": 13666734,
@@ -1452,7 +1440,7 @@
   "qtd_planej": "003 - CORTAR BLANK",
   "qtd_boas": 3737,
   "qtd_percentual": 0,
-  "Column14": 0
+  "obs_alerta": 0
  },
  {
   "cod_empresa": 12,
@@ -1862,7 +1850,7 @@
  {
   "cod_empresa": 12,
   "alerta": 0,
-  "sequencia": 2,
+  "sequencia": 3,
   "num_programa": 28194,
   "data_programa": "09\/19\/2022 9:39",
   "num_ordem": 12160868,
@@ -1977,7 +1965,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 12,
@@ -2012,7 +2001,7 @@
  {
   "cod_empresa": 12,
   "alerta": 0,
-  "sequencia": 3,
+  "sequencia": 4,
   "num_programa": 28195,
   "data_programa": "09\/19\/2022 9:39",
   "num_ordem": 12160883,
@@ -2087,7 +2076,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 4,
+  "sequencia": 6,
   "num_programa": 27733,
   "data_programa": "09\/14\/2022 8:56",
   "num_ordem": 13718092,
@@ -2486,8 +2475,8 @@
   "cod_item": 100000065600,
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 7000,
-  "qtd_boas": 4527,
-  "qtd_percentual": 0.647
+  "qtd_boas": 5103,
+  "qtd_percentual": 0.729
  },
  {
   "cod_empresa": 1,
@@ -2756,8 +2745,8 @@
   "cod_item": 87000031920010,
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 72,
-  "qtd_boas": 72,
-  "qtd_percentual": 1
+  "qtd_boas": 80,
+  "qtd_percentual": 1.111
  },
  {
   "cod_empresa": 1,
@@ -2777,11 +2766,11 @@
  {
   "cod_empresa": 12,
   "alerta": 0,
-  "sequencia": 5,
+  "sequencia": 2,
   "num_programa": 28196,
   "data_programa": "09\/19\/2022 9:41",
   "num_ordem": 12160923,
-  "ies_situa": 2,
+  "ies_situa": 4,
   "cod_item_cliente": 533272060,
   "cod_item": 870000328100,
   "operacao": "043 - PONTEAR ABA",
@@ -2882,7 +2871,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 4,
+  "sequencia": 6,
   "num_programa": 27733,
   "data_programa": "09\/14\/2022 8:56",
   "num_ordem": 13721452,
@@ -2987,7 +2976,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 2,
+  "sequencia": 1,
   "num_programa": 27773,
   "data_programa": "09\/14\/2022 13:02",
   "num_ordem": 13725419,
@@ -3132,7 +3121,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -3521,8 +3511,8 @@
   "cod_item": 52000195010010,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 3000,
-  "qtd_boas": 1905,
-  "qtd_percentual": 0.635
+  "qtd_boas": 1921,
+  "qtd_percentual": 0.64
  },
  {
   "cod_empresa": 1,
@@ -3557,7 +3547,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 12,
+  "sequencia": 11,
   "num_programa": 27736,
   "data_programa": "09\/14\/2022 9:32",
   "num_ordem": 13725054,
@@ -3717,7 +3707,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -3732,7 +3723,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -3882,7 +3874,8 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 220,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PRODUZIR SOMENTE 220 PÇS"
  },
  {
   "cod_empresa": 1,
@@ -4017,7 +4010,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 200,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -4082,21 +4076,6 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 28342,
-  "data_programa": "09\/19\/2022 21:17",
-  "num_ordem": 13755801,
-  "ies_situa": 4,
-  "cod_item_cliente": 94736428,
-  "cod_item": 100000042800,
-  "operacao": "035 - SOLDAR PORCA",
-  "qtd_planej": 300,
-  "qtd_boas": 292,
-  "qtd_percentual": 0.973
- },
- {
-  "cod_empresa": 1,
-  "alerta": 0,
   "sequencia": 4,
   "num_programa": 27608,
   "data_programa": "09\/13\/2022 9:41",
@@ -4138,36 +4117,6 @@
   "qtd_planej": 16000,
   "qtd_boas": 6381,
   "qtd_percentual": 0.399
- },
- {
-  "cod_empresa": 1,
-  "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 27626,
-  "data_programa": "09\/13\/2022 10:32",
-  "num_ordem": 13716031,
-  "ies_situa": 4,
-  "cod_item_cliente": "1STF138000   LH LE",
-  "cod_item": 160000604800,
-  "operacao": "037 - MONTAR E SOLDAR MIG",
-  "qtd_planej": 900,
-  "qtd_boas": 888,
-  "qtd_percentual": 0.987
- },
- {
-  "cod_empresa": 1,
-  "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 27626,
-  "data_programa": "09\/13\/2022 10:32",
-  "num_ordem": 13716038,
-  "ies_situa": 4,
-  "cod_item_cliente": "1STF139000 RH LD",
-  "cod_item": 160000604900,
-  "operacao": "037 - MONTAR E SOLDAR MIG",
-  "qtd_planej": 900,
-  "qtd_boas": 888,
-  "qtd_percentual": 0.987
  },
  {
   "cod_empresa": 1,
@@ -4247,7 +4196,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 8,
+  "sequencia": 7,
   "num_programa": 28295,
   "data_programa": "09\/19\/2022 14:26",
   "num_ordem": 13767109,
@@ -4407,12 +4356,13 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 287,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 3,
+  "sequencia": 2,
   "num_programa": 27968,
   "data_programa": "09\/16\/2022 7:04",
   "num_ordem": 13740316,
@@ -4437,7 +4387,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1500,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -5117,7 +5068,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 11,
+  "sequencia": 10,
   "num_programa": 27724,
   "data_programa": "09\/14\/2022 7:54",
   "num_ordem": 13726465,
@@ -5216,8 +5167,8 @@
   "cod_item": 87000031990020,
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4600,
-  "qtd_boas": 1227,
-  "qtd_percentual": 0.267
+  "qtd_boas": 1317,
+  "qtd_percentual": 0.286
  },
  {
   "cod_empresa": 12,
@@ -5308,21 +5259,6 @@
   "qtd_planej": 12000,
   "qtd_boas": 0,
   "qtd_percentual": 0
- },
- {
-  "cod_empresa": 1,
-  "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 27754,
-  "data_programa": "09\/14\/2022 10:07",
-  "num_ordem": 13715796,
-  "ies_situa": 4,
-  "cod_item_cliente": 82600551,
-  "cod_item": 110000324300,
-  "operacao": "016 - FURAR",
-  "qtd_planej": 2600,
-  "qtd_boas": 3060,
-  "qtd_percentual": 1.177
  },
  {
   "cod_empresa": 1,
@@ -5537,7 +5473,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 14,
+  "sequencia": 13,
   "num_programa": 27895,
   "data_programa": "09\/15\/2022 11:21",
   "num_ordem": 13722807,
@@ -5801,8 +5737,8 @@
   "cod_item": 87000031410010,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 2000,
-  "qtd_boas": 978,
-  "qtd_percentual": 0.489
+  "qtd_boas": 1018,
+  "qtd_percentual": 0.509
  },
  {
   "cod_empresa": 12,
@@ -5837,7 +5773,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 5,
+  "sequencia": 4,
   "num_programa": 28001,
   "data_programa": "09\/16\/2022 9:47",
   "num_ordem": 13734604,
@@ -5876,13 +5812,13 @@
   "cod_item": 870000328200,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
-  "qtd_boas": 480,
-  "qtd_percentual": 0.667
+  "qtd_boas": 540,
+  "qtd_percentual": 0.75
  },
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 13,
+  "sequencia": 12,
   "num_programa": 27844,
   "data_programa": "09\/15\/2022 7:50",
   "num_ordem": 13720045,
@@ -5897,7 +5833,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 13,
+  "sequencia": 12,
   "num_programa": 27844,
   "data_programa": "09\/15\/2022 7:50",
   "num_ordem": 13720045,
@@ -6077,7 +6013,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 14,
+  "sequencia": 13,
   "num_programa": 27895,
   "data_programa": "09\/15\/2022 11:21",
   "num_ordem": 13722817,
@@ -6647,7 +6583,7 @@
  {
   "cod_empresa": 12,
   "alerta": 0,
-  "sequencia": 4,
+  "sequencia": 5,
   "num_programa": 28344,
   "data_programa": "09\/19\/2022 23:14",
   "num_ordem": 12165176,
@@ -6947,7 +6883,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 15,
+  "sequencia": 14,
   "num_programa": 28485,
   "data_programa": "09\/20\/2022 15:39",
   "num_ordem": 13774912,
@@ -7052,6 +6988,21 @@
  {
   "cod_empresa": 12,
   "alerta": 0,
+  "sequencia": 50,
+  "num_programa": 28489,
+  "data_programa": "09\/20\/2022 16:25",
+  "num_ordem": 12173387,
+  "ies_situa": 4,
+  "cod_item_cliente": 53489515,
+  "cod_item": 870000319101,
+  "operacao": "035 - SOLDAR PORCA",
+  "qtd_planej": 420,
+  "qtd_boas": 0,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": 12,
+  "alerta": 0,
   "sequencia": 1,
   "num_programa": 28057,
   "data_programa": "09\/16\/2022 15:19",
@@ -7082,7 +7033,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 5,
+  "sequencia": 7,
   "num_programa": 28059,
   "data_programa": "09\/16\/2022 15:18",
   "num_ordem": 13741690,
@@ -7697,7 +7648,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 7,
+  "sequencia": 6,
   "num_programa": 28143,
   "data_programa": "09\/19\/2022 7:05",
   "num_ordem": 13769347,
@@ -7911,7 +7862,7 @@
   "num_programa": 28421,
   "data_programa": "09\/20\/2022 11:32",
   "num_ordem": 13782742,
-  "ies_situa": 3,
+  "ies_situa": 4,
   "cod_item_cliente": "FA00ADB48240\/245",
   "cod_item": 87000031350210,
   "operacao": "001 - CORTAR TIRAS",
@@ -7961,8 +7912,8 @@
   "cod_item": 520001950101,
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
-  "qtd_boas": 253,
-  "qtd_percentual": 0.253
+  "qtd_boas": 580,
+  "qtd_percentual": 0.58
  },
  {
   "cod_empresa": 1,
@@ -8066,8 +8017,8 @@
   "cod_item": 870000319200,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
-  "qtd_boas": 192,
-  "qtd_percentual": 0.267
+  "qtd_boas": 200,
+  "qtd_percentual": 0.278
  },
  {
   "cod_empresa": 12,
@@ -8081,8 +8032,8 @@
   "cod_item": 870000319400,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
-  "qtd_boas": 200,
-  "qtd_percentual": 0.278
+  "qtd_boas": 208,
+  "qtd_percentual": 0.289
  },
  {
   "cod_empresa": 1,
@@ -8175,19 +8126,19 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 1,
-  "num_programa": 28189,
-  "data_programa": "09\/19\/2022 9:15",
-  "num_ordem": 12162257,
-  "ies_situa": 4,
-  "cod_item_cliente": 53489515,
-  "cod_item": 870000319101,
-  "operacao": "035 - SOLDAR PORCA",
-  "qtd_planej": 180,
-  "qtd_boas": 176,
-  "qtd_percentual": 0.978
+  "sequencia": 4,
+  "num_programa": 28490,
+  "data_programa": "09\/20\/2022 16:34",
+  "num_ordem": 13776107,
+  "ies_situa": 2,
+  "cod_item_cliente": "519884150_160",
+  "cod_item": 87000032260010,
+  "operacao": "003 - CORTAR BLANK",
+  "qtd_planej": 4000,
+  "qtd_boas": 0,
+  "qtd_percentual": 0
  },
  {
   "cod_empresa": 12,
@@ -8631,11 +8582,11 @@
   "num_programa": 28488,
   "data_programa": "09\/20\/2022 16:15",
   "num_ordem": 13773058,
-  "ies_situa": 2,
+  "ies_situa": 4,
   "cod_item_cliente": 501489580,
   "cod_item": 870270316600,
   "operacao": "072 - MONTAR E TRAVAR",
-  "qtd_planej": 71,
+  "qtd_planej": 4000,
   "qtd_boas": 0,
   "qtd_percentual": 0
  },
@@ -8772,7 +8723,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 12,
@@ -9087,7 +9039,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9102,7 +9055,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 12,
@@ -9132,7 +9086,8 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 287,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9162,7 +9117,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2600,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9177,7 +9133,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2600,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9222,7 +9179,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9237,7 +9195,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 12,
@@ -9267,7 +9226,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 200,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 12,
@@ -9297,7 +9257,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9312,7 +9273,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9327,7 +9289,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9446,8 +9409,8 @@
   "cod_item": 10000005600130,
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 1609,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 96,
+  "qtd_percentual": 0.06
  },
  {
   "cod_empresa": 1,
@@ -9461,8 +9424,8 @@
   "cod_item": 100000056600,
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 400,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 120,
+  "qtd_percentual": 0.3
  },
  {
   "cod_empresa": 1,
@@ -9632,7 +9595,7 @@
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 4,
+  "sequencia": 3,
   "num_programa": 28395,
   "data_programa": "09\/20\/2022 9:25",
   "num_ordem": 13781040,
@@ -9672,7 +9635,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9687,7 +9651,8 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9702,7 +9667,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1500,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9717,7 +9683,8 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 778,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
@@ -9752,7 +9719,7 @@
  {
   "cod_empresa": 1,
   "alerta": 1,
-  "sequencia": 6,
+  "sequencia": 5,
   "num_programa": 28402,
   "data_programa": "09\/20\/2022 9:41",
   "num_ordem": 13774641,
@@ -9762,12 +9729,13 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2000,
   "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_percentual": 0,
+  "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
   "cod_empresa": 1,
   "alerta": 0,
-  "sequencia": 6,
+  "sequencia": 5,
   "num_programa": 28403,
   "data_programa": "09\/20\/2022 9:42",
   "num_ordem": 13776134,
