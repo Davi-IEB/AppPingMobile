@@ -10,10 +10,10 @@ namespace AppPingMobile.Servico
     {
         private const string RequestUriCentros = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/centros.json";
         private const string RequestUriMaquinas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/maquinas.json";
-        private const string RequestUriPrograma = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/programacao.json";
+        private const string RequestUriProgramas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/programacao.json";
         HttpClient centros = new HttpClient();
         HttpClient maquinas = new HttpClient();
-        HttpClient programa = new HttpClient();
+        HttpClient programas = new HttpClient();
         public async Task<List<Centros>> GetCentrosAsync()
         {
             var response = await centros.GetStringAsync(RequestUriCentros);
@@ -28,8 +28,8 @@ namespace AppPingMobile.Servico
         }
         public async Task<List<Programa>> GetProgramaAsync()
         {
-            var response3 = await programa.GetStringAsync(RequestUriPrograma);
-            var prog = JsonConvert.DeserializeObject<List<Maquina>>(response3);
+            var response3 = await programas.GetStringAsync(RequestUriProgramas);
+            var prog = JsonConvert.DeserializeObject<List<Programa>>(response3);
             return prog;
         }
     }

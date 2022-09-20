@@ -36,6 +36,7 @@ namespace AppPingMobile.Modelo
         public string Operacao { get; set; }
         public string Qtd_planej { get; set; }
         public string Qtd_boas { get; set; }
-        public string Qtd_percentual { get; set; }
+        public decimal Qtd_percentual { get; set; }
+        public string Obs_alerta { get; set; }
     }
 }

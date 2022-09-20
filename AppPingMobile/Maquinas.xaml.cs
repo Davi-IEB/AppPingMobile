@@ -44,6 +44,7 @@ namespace AppPingMobile
             if (sender is ListView list) list.BackgroundColor = Color.Transparent;
             var maq = e.Item as Maquina;
             Empresas.Maquina = maq.Cod_equip;
+            
         }
 
         private void Linha_Tapped(object sender, System.EventArgs e)
