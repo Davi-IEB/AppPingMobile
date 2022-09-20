@@ -1,15 +1,3 @@
-"alerta": 0,
-"sequencia": 1,
-"num_programa": 27630,
-"data_programa": "09\/13\/2022 11:11",
-"num_ordem": 13721499,
-"ies_situa": 4,
-"cod_item_cliente": 52096923,
-"cod_item": 10000004320010,
-"operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
-"qtd_planej": 2200,
-"qtd_boas": 1591,
-"qtd_percentual": 0.723
 
 SELECT
 PM.cod_empresa,
@@ -17,6 +5,7 @@ PM.alerta,
 PM.sequencia,
 PM.num_programa,
 PM.data_programa,
+PM.cod_equip,
 PM.num_ordem,
 ORD.ies_situa,
 CP.cod_item_cliente,
