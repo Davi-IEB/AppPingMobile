@@ -21,10 +21,9 @@ namespace AppPingMobile
         private async void AtualizaDados()
         {
             programas = await dataService.GetProgramaAsync();
-            var query = from i in programas where i.Cod_empresa == Empresas.Empresa.TrimStart('0').ToString() && i.Cod_equip == Empresas.Maquina.ToString() select i; 
-            LvPrograma.ItemsSource = query.OrderBy(x => x.Sequencia);
+            var query = from i in programas where i.Cod_empresa == Empresas.Empresa.ToString() && i.Cod_equip == Empresas.Maquina.ToString() select i; 
+            LvPrograma.ItemsSource = query.OrderBy(x => x.Sequencia.ToString());
             
         }
-
     }
 }

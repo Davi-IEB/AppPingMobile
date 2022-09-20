@@ -1,6 +1,6 @@
 [
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 23779,
@@ -15,7 +15,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 24162,
@@ -30,7 +30,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 24372,
@@ -45,7 +45,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 24372,
@@ -60,7 +60,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 11,
   "num_programa": 25048,
@@ -76,7 +76,7 @@
   "obs_alerta": "PEÇAS NOVA PORÉM LIBERADA."
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 6,
   "num_programa": 24866,
@@ -92,7 +92,7 @@
   "obs_alerta": "SO PRODUZIR COM ACOMPANHAMENTO DO BRUNO"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 25657,
@@ -107,7 +107,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 25658,
@@ -122,7 +122,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 25663,
@@ -137,7 +137,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 25765,
@@ -152,7 +152,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26920,
@@ -167,7 +167,7 @@
   "qtd_percentual": 0.534
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27148,
@@ -182,7 +182,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 26104,
@@ -197,7 +197,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 26105,
@@ -212,7 +212,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 26108,
@@ -227,7 +227,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 26109,
@@ -242,7 +242,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 26876,
@@ -257,7 +257,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 26624,
@@ -272,7 +272,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26845,
@@ -287,7 +287,7 @@
   "qtd_percentual": 1.201
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 26232,
@@ -302,7 +302,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27041,
@@ -317,7 +317,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26246,
@@ -332,7 +332,7 @@
   "qtd_percentual": 0.651
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27096,
@@ -347,7 +347,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26498,
@@ -362,7 +362,7 @@
   "qtd_percentual": 0.568
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26498,
@@ -377,7 +377,7 @@
   "qtd_percentual": 0.568
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 26285,
@@ -392,7 +392,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 26753,
@@ -407,7 +407,7 @@
   "qtd_percentual": 0.406
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 26625,
@@ -422,7 +422,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26501,
@@ -433,11 +433,11 @@
   "cod_item": 870000319900,
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
-  "qtd_boas": 6043,
-  "qtd_percentual": 0.378
+  "qtd_boas": 6220,
+  "qtd_percentual": 0.389
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 26404,
@@ -452,7 +452,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 26599,
@@ -467,7 +467,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26502,
@@ -482,7 +482,7 @@
   "qtd_percentual": 0.341
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 26503,
@@ -497,7 +497,7 @@
   "qtd_percentual": 0.33
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 26505,
@@ -512,7 +512,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 26505,
@@ -527,7 +527,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26850,
@@ -542,7 +542,7 @@
   "qtd_percentual": 0.998
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26585,
@@ -557,7 +557,7 @@
   "qtd_percentual": 0.405
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26787,
@@ -572,7 +572,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 26586,
@@ -587,7 +587,7 @@
   "qtd_percentual": 0.864
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 26600,
@@ -602,7 +602,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 26601,
@@ -617,7 +617,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26787,
@@ -632,7 +632,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 26621,
@@ -647,7 +647,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27105,
@@ -662,7 +662,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27081,
@@ -677,7 +677,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 26764,
@@ -692,7 +692,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 2,
   "sequencia": 4,
   "num_programa": 26789,
@@ -708,7 +708,7 @@
   "obs_alerta": "URGENTE"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 26799,
@@ -723,7 +723,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 26815,
@@ -738,7 +738,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 26828,
@@ -753,7 +753,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 26871,
@@ -768,7 +768,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 26872,
@@ -783,7 +783,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 26891,
@@ -798,7 +798,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26912,
@@ -809,11 +809,11 @@
   "cod_item": 87000031610020,
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
-  "qtd_boas": 4988,
-  "qtd_percentual": 0.831
+  "qtd_boas": 5985,
+  "qtd_percentual": 0.998
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 26916,
@@ -828,7 +828,7 @@
   "qtd_percentual": 0.451
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 27065,
@@ -843,7 +843,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27132,
@@ -858,7 +858,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27132,
@@ -873,7 +873,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27004,
@@ -888,7 +888,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27005,
@@ -903,7 +903,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27014,
@@ -918,7 +918,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27014,
@@ -933,7 +933,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27017,
@@ -948,7 +948,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27020,
@@ -963,7 +963,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27028,
@@ -978,7 +978,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27029,
@@ -993,7 +993,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 27030,
@@ -1008,7 +1008,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27034,
@@ -1023,7 +1023,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27034,
@@ -1038,7 +1038,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27149,
@@ -1053,7 +1053,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 27061,
@@ -1068,7 +1068,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 27065,
@@ -1083,7 +1083,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27081,
@@ -1098,7 +1098,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27094,
@@ -1113,7 +1113,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27094,
@@ -1128,7 +1128,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27096,
@@ -1143,7 +1143,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27101,
@@ -1158,7 +1158,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27105,
@@ -1173,7 +1173,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27110,
@@ -1188,7 +1188,7 @@
   "qtd_percentual": 0.751
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27118,
@@ -1203,7 +1203,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27118,
@@ -1218,7 +1218,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27126,
@@ -1233,7 +1233,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27126,
@@ -1248,7 +1248,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27134,
@@ -1263,7 +1263,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27134,
@@ -1278,7 +1278,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27139,
@@ -1293,7 +1293,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27140,
@@ -1308,7 +1308,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27140,
@@ -1323,7 +1323,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27140,
@@ -1338,7 +1338,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27140,
@@ -1353,7 +1353,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27143,
@@ -1368,7 +1368,7 @@
   "qtd_percentual": 0.263
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27145,
@@ -1383,7 +1383,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27145,
@@ -1398,7 +1398,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27153,
@@ -1413,7 +1413,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27156,
@@ -1428,7 +1428,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27168,
@@ -1443,7 +1443,7 @@
   "obs_alerta": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28475,
@@ -1458,7 +1458,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27485,
@@ -1473,7 +1473,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 28074,
@@ -1488,7 +1488,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27573,
@@ -1503,7 +1503,7 @@
   "qtd_percentual": 0.802
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28448,
@@ -1518,9 +1518,9 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 2,
+  "sequencia": 4,
   "num_programa": 28333,
   "data_programa": "09\/19\/2022 16:23",
   "num_ordem": 12165644,
@@ -1533,7 +1533,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27217,
@@ -1548,7 +1548,7 @@
   "qtd_percentual": 0.362
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27763,
@@ -1563,7 +1563,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27764,
@@ -1578,7 +1578,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27378,
@@ -1593,7 +1593,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27378,
@@ -1608,7 +1608,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27896,
@@ -1623,7 +1623,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28394,
@@ -1638,7 +1638,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 62,
   "num_programa": 28334,
@@ -1653,7 +1653,7 @@
   "qtd_percentual": 0.93
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28335,
@@ -1668,7 +1668,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28394,
@@ -1683,7 +1683,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27759,
@@ -1698,7 +1698,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28041,
@@ -1713,7 +1713,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28193,
@@ -1728,7 +1728,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27765,
@@ -1743,7 +1743,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28437,
@@ -1758,7 +1758,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28034,
@@ -1773,7 +1773,7 @@
   "qtd_percentual": 0.993
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27590,
@@ -1788,7 +1788,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27848,
@@ -1803,7 +1803,7 @@
   "qtd_percentual": 0.613
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27759,
@@ -1818,7 +1818,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28353,
@@ -1833,7 +1833,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28481,
@@ -1848,7 +1848,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28194,
@@ -1863,7 +1863,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28198,
@@ -1878,7 +1878,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28227,
@@ -1893,7 +1893,7 @@
   "qtd_percentual": 0.567
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27862,
@@ -1908,7 +1908,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27739,
@@ -1923,7 +1923,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28367,
@@ -1938,7 +1938,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28377,
@@ -1953,7 +1953,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 19,
   "num_programa": 28378,
@@ -1969,7 +1969,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28413,
@@ -1984,7 +1984,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27766,
@@ -1999,7 +1999,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28195,
@@ -2014,7 +2014,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27295,
@@ -2029,7 +2029,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27296,
@@ -2044,7 +2044,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28137,
@@ -2059,7 +2059,7 @@
   "qtd_percentual": 0.5
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27863,
@@ -2074,7 +2074,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27733,
@@ -2089,7 +2089,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28351,
@@ -2104,7 +2104,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27910,
@@ -2119,7 +2119,7 @@
   "qtd_percentual": 1.022
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28211,
@@ -2130,11 +2130,11 @@
   "cod_item": 100000054806,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
-  "qtd_boas": 1490,
-  "qtd_percentual": 0.373
+  "qtd_boas": 1863,
+  "qtd_percentual": 0.466
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28224,
@@ -2149,7 +2149,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 29,
   "num_programa": 28474,
@@ -2164,7 +2164,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28366,
@@ -2179,7 +2179,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 27512,
@@ -2194,7 +2194,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28263,
@@ -2209,7 +2209,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28384,
@@ -2224,7 +2224,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27478,
@@ -2239,7 +2239,7 @@
   "qtd_percentual": 0.792
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28264,
@@ -2254,7 +2254,7 @@
   "qtd_percentual": 0.999
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28438,
@@ -2269,7 +2269,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28208,
@@ -2284,7 +2284,7 @@
   "qtd_percentual": 0.359
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28014,
@@ -2295,11 +2295,11 @@
   "cod_item": 100000053100,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1000,
-  "qtd_boas": 341,
-  "qtd_percentual": 0.341
+  "qtd_boas": 703,
+  "qtd_percentual": 0.703
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28385,
@@ -2314,7 +2314,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28336,
@@ -2329,7 +2329,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27353,
@@ -2344,7 +2344,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28226,
@@ -2359,7 +2359,7 @@
   "qtd_percentual": 0.688
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27363,
@@ -2374,7 +2374,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27363,
@@ -2389,7 +2389,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27364,
@@ -2404,7 +2404,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27364,
@@ -2419,7 +2419,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28190,
@@ -2434,7 +2434,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 27369,
@@ -2449,7 +2449,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27370,
@@ -2464,7 +2464,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27770,
@@ -2479,7 +2479,7 @@
   "qtd_percentual": 0.729
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27614,
@@ -2490,11 +2490,11 @@
   "cod_item": 100000060800,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
-  "qtd_boas": 7723,
-  "qtd_percentual": 0.483
+  "qtd_boas": 7801,
+  "qtd_percentual": 0.488
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27384,
@@ -2509,7 +2509,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27384,
@@ -2524,7 +2524,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27392,
@@ -2539,7 +2539,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27393,
@@ -2554,7 +2554,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28164,
@@ -2569,7 +2569,7 @@
   "qtd_percentual": 0.358
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28277,
@@ -2584,7 +2584,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27396,
@@ -2599,7 +2599,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27397,
@@ -2614,7 +2614,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27398,
@@ -2629,7 +2629,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27400,
@@ -2644,7 +2644,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28375,
@@ -2659,7 +2659,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 61,
   "num_programa": 27824,
@@ -2674,7 +2674,7 @@
   "qtd_percentual": 0.386
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28249,
@@ -2689,7 +2689,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27411,
@@ -2704,7 +2704,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 32,
   "num_programa": 28100,
@@ -2719,7 +2719,7 @@
   "qtd_percentual": 1.012
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27413,
@@ -2734,7 +2734,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28368,
@@ -2749,7 +2749,7 @@
   "qtd_percentual": 1.111
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 23,
   "num_programa": 27993,
@@ -2764,7 +2764,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28196,
@@ -2779,7 +2779,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28469,
@@ -2794,9 +2794,9 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 64,
+  "sequencia": 5,
   "num_programa": 28476,
   "data_programa": "09\/20\/2022 14:06",
   "num_ordem": 12175553,
@@ -2809,7 +2809,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27987,
@@ -2824,7 +2824,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27988,
@@ -2839,7 +2839,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 28233,
@@ -2854,7 +2854,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28234,
@@ -2865,11 +2865,11 @@
   "cod_item": 10000006170110,
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 5431,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 1800,
+  "qtd_percentual": 0.331
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27733,
@@ -2884,7 +2884,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27434,
@@ -2899,7 +2899,7 @@
   "qtd_percentual": 0.831
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27435,
@@ -2914,7 +2914,7 @@
   "qtd_percentual": 0.741
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27436,
@@ -2929,7 +2929,7 @@
   "qtd_percentual": 0.464
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27438,
@@ -2944,7 +2944,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 24,
   "num_programa": 28478,
@@ -2959,7 +2959,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27444,
@@ -2974,7 +2974,7 @@
   "qtd_percentual": 0.5
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27773,
@@ -2989,7 +2989,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28247,
@@ -3004,7 +3004,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 19,
   "num_programa": 27456,
@@ -3019,7 +3019,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 27458,
@@ -3034,7 +3034,7 @@
   "qtd_percentual": 0.646
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27459,
@@ -3049,7 +3049,7 @@
   "qtd_percentual": 0.322
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28383,
@@ -3064,7 +3064,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28036,
@@ -3079,7 +3079,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27467,
@@ -3090,11 +3090,11 @@
   "cod_item": 520001950400,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2618,
-  "qtd_boas": 1202,
-  "qtd_percentual": 0.459
+  "qtd_boas": 1440,
+  "qtd_percentual": 0.55
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27468,
@@ -3109,7 +3109,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 17,
   "num_programa": 28330,
@@ -3125,7 +3125,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28148,
@@ -3140,7 +3140,7 @@
   "qtd_percentual": 0.728
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 23,
   "num_programa": 27943,
@@ -3151,11 +3151,11 @@
   "cod_item": 930000410200,
   "operacao": "047 - LAVAR PECAS",
   "qtd_planej": 13248,
-  "qtd_boas": 12460,
-  "qtd_percentual": 0.941
+  "qtd_boas": 13248,
+  "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 23,
   "num_programa": 27943,
@@ -3166,11 +3166,11 @@
   "cod_item": 930000410200,
   "operacao": "039 - TAMBOREAR",
   "qtd_planej": 13248,
-  "qtd_boas": 12460,
-  "qtd_percentual": 0.941
+  "qtd_boas": 13248,
+  "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 23,
   "num_programa": 27943,
@@ -3181,11 +3181,11 @@
   "cod_item": 930000410200,
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 13248,
-  "qtd_boas": 12460,
-  "qtd_percentual": 0.941
+  "qtd_boas": 13248,
+  "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28369,
@@ -3200,7 +3200,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28370,
@@ -3215,7 +3215,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 21,
   "num_programa": 27484,
@@ -3230,7 +3230,7 @@
   "qtd_percentual": 0.7
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27486,
@@ -3245,7 +3245,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27507,
@@ -3260,7 +3260,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27508,
@@ -3275,22 +3275,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
-  "alerta": 0,
-  "sequencia": 2,
-  "num_programa": 27882,
-  "data_programa": "09\/15\/2022 10:00",
-  "num_ordem": 13714245,
-  "ies_situa": 4,
-  "cod_item_cliente": 52120741,
-  "cod_item": 100000045300,
-  "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
-  "qtd_planej": 3300,
-  "qtd_boas": 1543,
-  "qtd_percentual": 0.468
- },
- {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27883,
@@ -3305,7 +3290,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27498,
@@ -3320,7 +3305,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28450,
@@ -3335,7 +3320,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27500,
@@ -3346,11 +3331,11 @@
   "cod_item": 870000317201,
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 13031,
-  "qtd_boas": 3546,
-  "qtd_percentual": 0.272
+  "qtd_boas": 7776,
+  "qtd_percentual": 0.597
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28449,
@@ -3365,7 +3350,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28449,
@@ -3380,7 +3365,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28031,
@@ -3395,7 +3380,7 @@
   "qtd_percentual": 0.851
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28115,
@@ -3410,7 +3395,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27505,
@@ -3425,7 +3410,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27507,
@@ -3440,7 +3425,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 27510,
@@ -3455,7 +3440,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28482,
@@ -3470,7 +3455,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27774,
@@ -3485,7 +3470,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28018,
@@ -3500,7 +3485,7 @@
   "qtd_percentual": 0.676
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27520,
@@ -3511,11 +3496,11 @@
   "cod_item": 52000195010010,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 3000,
-  "qtd_boas": 1921,
-  "qtd_percentual": 0.64
+  "qtd_boas": 1937,
+  "qtd_percentual": 0.646
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27615,
@@ -3530,7 +3515,7 @@
   "qtd_percentual": 0.39
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28479,
@@ -3545,7 +3530,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 27736,
@@ -3560,7 +3545,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28211,
@@ -3571,11 +3556,11 @@
   "cod_item": 100000054906,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
-  "qtd_boas": 1490,
-  "qtd_percentual": 0.373
+  "qtd_boas": 1862,
+  "qtd_percentual": 0.466
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 49,
   "num_programa": 28371,
@@ -3590,7 +3575,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28229,
@@ -3605,7 +3590,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27910,
@@ -3620,7 +3605,7 @@
   "qtd_percentual": 1.022
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27776,
@@ -3635,7 +3620,7 @@
   "qtd_percentual": 0.08
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27617,
@@ -3650,7 +3635,7 @@
   "qtd_percentual": 0.432
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27618,
@@ -3661,11 +3646,11 @@
   "cod_item": 100000060100,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
-  "qtd_boas": 6783,
-  "qtd_percentual": 0.424
+  "qtd_boas": 6825,
+  "qtd_percentual": 0.427
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 20,
   "num_programa": 28444,
@@ -3680,7 +3665,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 33,
   "num_programa": 28101,
@@ -3695,7 +3680,7 @@
   "qtd_percentual": 1.022
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 16,
   "num_programa": 28406,
@@ -3711,7 +3696,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 16,
   "num_programa": 28406,
@@ -3727,7 +3712,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28415,
@@ -3742,7 +3727,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27562,
@@ -3757,7 +3742,7 @@
   "qtd_percentual": 0.471
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28229,
@@ -3772,7 +3757,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28372,
@@ -3787,7 +3772,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28373,
@@ -3802,7 +3787,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28335,
@@ -3817,7 +3802,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27988,
@@ -3832,7 +3817,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27989,
@@ -3847,7 +3832,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27571,
@@ -3862,7 +3847,7 @@
   "qtd_percentual": 0.545
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 1,
   "num_programa": 27577,
@@ -3878,7 +3863,7 @@
   "obs_alerta": "PRODUZIR SOMENTE 220 PÇS"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27702,
@@ -3893,7 +3878,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28030,
@@ -3908,7 +3893,7 @@
   "qtd_percentual": 0.37
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27906,
@@ -3923,7 +3908,7 @@
   "qtd_percentual": 0.085
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27590,
@@ -3938,7 +3923,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27592,
@@ -3953,7 +3938,7 @@
   "qtd_percentual": 0.723
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28037,
@@ -3968,7 +3953,7 @@
   "qtd_percentual": 0.43
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27601,
@@ -3983,7 +3968,7 @@
   "qtd_percentual": 0.53
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27602,
@@ -3998,7 +3983,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 9,
   "num_programa": 28382,
@@ -4014,7 +3999,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27605,
@@ -4025,11 +4010,11 @@
   "cod_item": 100000048800,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 900,
-  "qtd_boas": 737,
-  "qtd_percentual": 0.819
+  "qtd_boas": 761,
+  "qtd_percentual": 0.846
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27605,
@@ -4040,11 +4025,11 @@
   "cod_item": 100000059000,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 900,
-  "qtd_boas": 737,
-  "qtd_percentual": 0.819
+  "qtd_boas": 761,
+  "qtd_percentual": 0.846
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28199,
@@ -4059,7 +4044,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28237,
@@ -4074,7 +4059,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27608,
@@ -4089,7 +4074,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27625,
@@ -4100,11 +4085,11 @@
   "cod_item": 100000060400,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 9000,
-  "qtd_boas": 7359,
-  "qtd_percentual": 0.818
+  "qtd_boas": 7395,
+  "qtd_percentual": 0.822
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27619,
@@ -4119,7 +4104,7 @@
   "qtd_percentual": 0.399
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27621,
@@ -4134,7 +4119,7 @@
   "qtd_percentual": 0.227
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27622,
@@ -4149,7 +4134,7 @@
   "qtd_percentual": 0.227
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27623,
@@ -4160,11 +4145,11 @@
   "cod_item": 100000060500,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 9000,
-  "qtd_boas": 7352,
-  "qtd_percentual": 0.817
+  "qtd_boas": 7388,
+  "qtd_percentual": 0.821
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28157,
@@ -4179,7 +4164,7 @@
   "qtd_percentual": 0.361
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28140,
@@ -4194,7 +4179,7 @@
   "qtd_percentual": 0.498
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28295,
@@ -4209,7 +4194,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 18,
   "num_programa": 28419,
@@ -4224,7 +4209,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 27973,
@@ -4239,7 +4224,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 20,
   "num_programa": 27646,
@@ -4254,7 +4239,7 @@
   "qtd_percentual": 0.85
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28102,
@@ -4269,7 +4254,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28103,
@@ -4284,7 +4269,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28197,
@@ -4299,7 +4284,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27966,
@@ -4314,7 +4299,7 @@
   "qtd_percentual": 0.323
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27652,
@@ -4329,7 +4314,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27966,
@@ -4344,7 +4329,7 @@
   "qtd_percentual": 0.366
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 10,
   "num_programa": 28398,
@@ -4360,7 +4345,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27968,
@@ -4375,7 +4360,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 17,
   "num_programa": 28407,
@@ -4391,7 +4376,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 25,
   "num_programa": 27969,
@@ -4406,7 +4391,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 25,
   "num_programa": 27969,
@@ -4421,7 +4406,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 25,
   "num_programa": 27969,
@@ -4436,7 +4421,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28451,
@@ -4451,7 +4436,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27970,
@@ -4466,7 +4451,7 @@
   "qtd_percentual": 0.55
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27661,
@@ -4481,7 +4466,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27661,
@@ -4496,7 +4481,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 27662,
@@ -4511,7 +4496,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 27662,
@@ -4526,7 +4511,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27663,
@@ -4541,7 +4526,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27663,
@@ -4556,7 +4541,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27664,
@@ -4571,7 +4556,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27664,
@@ -4586,7 +4571,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27665,
@@ -4601,7 +4586,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27665,
@@ -4616,7 +4601,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28149,
@@ -4631,7 +4616,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27667,
@@ -4646,7 +4631,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27667,
@@ -4661,7 +4646,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28232,
@@ -4676,7 +4661,7 @@
   "qtd_percentual": 1.105
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28180,
@@ -4691,7 +4676,7 @@
   "qtd_percentual": 0.296
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28180,
@@ -4706,7 +4691,7 @@
   "qtd_percentual": 0.296
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28047,
@@ -4721,7 +4706,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 28430,
@@ -4736,7 +4721,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 27676,
@@ -4751,7 +4736,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27873,
@@ -4766,7 +4751,7 @@
   "qtd_percentual": 0.283
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28352,
@@ -4781,7 +4766,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27699,
@@ -4796,7 +4781,7 @@
   "qtd_percentual": 0.338
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27700,
@@ -4811,7 +4796,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 27703,
@@ -4826,7 +4811,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27704,
@@ -4841,7 +4826,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27704,
@@ -4856,7 +4841,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27705,
@@ -4871,7 +4856,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27707,
@@ -4886,7 +4871,7 @@
   "qtd_percentual": 0.018
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27708,
@@ -4901,7 +4886,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27708,
@@ -4916,7 +4901,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27709,
@@ -4931,7 +4916,7 @@
   "qtd_percentual": 0.62
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27726,
@@ -4946,7 +4931,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 27850,
@@ -4961,7 +4946,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27713,
@@ -4976,7 +4961,7 @@
   "qtd_percentual": 0.809
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28255,
@@ -4991,7 +4976,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 27720,
@@ -5006,7 +4991,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 39,
   "num_programa": 28409,
@@ -5021,7 +5006,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27722,
@@ -5036,7 +5021,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27722,
@@ -5051,7 +5036,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27723,
@@ -5066,7 +5051,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 27724,
@@ -5081,7 +5066,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28416,
@@ -5096,7 +5081,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27728,
@@ -5111,7 +5096,7 @@
   "qtd_percentual": 0.373
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28408,
@@ -5126,7 +5111,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28199,
@@ -5141,7 +5126,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 36,
   "num_programa": 27745,
@@ -5156,7 +5141,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27985,
@@ -5167,11 +5152,11 @@
   "cod_item": 87000031990020,
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4600,
-  "qtd_boas": 1317,
-  "qtd_percentual": 0.286
+  "qtd_boas": 1570,
+  "qtd_percentual": 0.341
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27747,
@@ -5186,7 +5171,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28104,
@@ -5201,7 +5186,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 21,
   "num_programa": 28319,
@@ -5216,7 +5201,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28238,
@@ -5231,7 +5216,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 33,
   "num_programa": 28320,
@@ -5246,7 +5231,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28052,
@@ -5261,7 +5246,22 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": 6,
+  "num_programa": 28491,
+  "data_programa": "09\/20\/2022 16:53",
+  "num_ordem": 12172482,
+  "ies_situa": 4,
+  "cod_item_cliente": "534894510 LE",
+  "cod_item": 87000031890010,
+  "operacao": "036 - SOLDAR PINO",
+  "qtd_planej": 125,
+  "qtd_boas": 0,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27782,
@@ -5276,7 +5276,7 @@
   "qtd_percentual": 0.261
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27782,
@@ -5291,7 +5291,7 @@
   "qtd_percentual": 0.552
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27782,
@@ -5306,7 +5306,7 @@
   "qtd_percentual": 0.447
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27782,
@@ -5321,7 +5321,7 @@
   "qtd_percentual": 0.552
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28286,
@@ -5336,7 +5336,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 34,
   "num_programa": 28287,
@@ -5351,7 +5351,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28107,
@@ -5366,7 +5366,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28107,
@@ -5381,7 +5381,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 16,
   "num_programa": 28431,
@@ -5396,7 +5396,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28200,
@@ -5407,11 +5407,11 @@
   "cod_item": 870000318300,
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 600,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 375,
+  "qtd_percentual": 0.625
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28416,
@@ -5426,7 +5426,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27800,
@@ -5441,7 +5441,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27801,
@@ -5456,7 +5456,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27801,
@@ -5471,7 +5471,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 27895,
@@ -5486,7 +5486,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27974,
@@ -5501,7 +5501,7 @@
   "qtd_percentual": 0.665
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28335,
@@ -5516,7 +5516,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 28386,
@@ -5531,7 +5531,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28387,
@@ -5546,7 +5546,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 26,
   "num_programa": 28464,
@@ -5561,7 +5561,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28141,
@@ -5576,7 +5576,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28447,
@@ -5591,7 +5591,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27827,
@@ -5606,7 +5606,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27827,
@@ -5621,7 +5621,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28452,
@@ -5636,7 +5636,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28014,
@@ -5647,11 +5647,11 @@
   "cod_item": 100000053200,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1000,
-  "qtd_boas": 341,
-  "qtd_percentual": 0.341
+  "qtd_boas": 703,
+  "qtd_percentual": 0.703
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27831,
@@ -5666,7 +5666,7 @@
   "qtd_percentual": 0.256
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27832,
@@ -5681,7 +5681,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 27,
   "num_programa": 28360,
@@ -5696,7 +5696,7 @@
   "qtd_percentual": 0.191
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27835,
@@ -5711,7 +5711,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28338,
@@ -5726,7 +5726,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28296,
@@ -5737,11 +5737,11 @@
   "cod_item": 87000031410010,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 2000,
-  "qtd_boas": 1018,
-  "qtd_percentual": 0.509
+  "qtd_boas": 1058,
+  "qtd_percentual": 0.529
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28339,
@@ -5756,7 +5756,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28238,
@@ -5771,7 +5771,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28001,
@@ -5786,7 +5786,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27975,
@@ -5801,7 +5801,7 @@
   "qtd_percentual": 0.552
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 20,
   "num_programa": 27843,
@@ -5816,7 +5816,7 @@
   "qtd_percentual": 0.75
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27844,
@@ -5831,7 +5831,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27844,
@@ -5846,7 +5846,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27846,
@@ -5861,7 +5861,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27847,
@@ -5876,7 +5876,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 22,
   "num_programa": 28477,
@@ -5891,7 +5891,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28417,
@@ -5906,7 +5906,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 28008,
@@ -5921,7 +5921,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27901,
@@ -5936,7 +5936,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27885,
@@ -5951,7 +5951,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27885,
@@ -5966,7 +5966,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28480,
@@ -5981,7 +5981,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27888,
@@ -5996,22 +5996,7 @@
   "qtd_percentual": 0.634
  },
  {
-  "cod_empresa": 12,
-  "alerta": 0,
-  "sequencia": 4,
-  "num_programa": 28252,
-  "data_programa": "09\/19\/2022 12:33",
-  "num_ordem": 12164091,
-  "ies_situa": 4,
-  "cod_item_cliente": "53489595 LE",
-  "cod_item": 870000319404,
-  "operacao": "037 - MONTAR E SOLDAR MIG",
-  "qtd_planej": 360,
-  "qtd_boas": 375,
-  "qtd_percentual": 1.042
- },
- {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 27895,
@@ -6026,7 +6011,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27896,
@@ -6041,7 +6026,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27978,
@@ -6056,7 +6041,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27898,
@@ -6071,7 +6056,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27898,
@@ -6086,7 +6071,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27899,
@@ -6101,7 +6086,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 27899,
@@ -6116,7 +6101,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27900,
@@ -6131,7 +6116,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27902,
@@ -6146,7 +6131,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27902,
@@ -6161,7 +6146,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 17,
   "num_programa": 28241,
@@ -6176,7 +6161,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27904,
@@ -6191,7 +6176,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27904,
@@ -6206,7 +6191,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27905,
@@ -6221,7 +6206,7 @@
   "qtd_percentual": 0.379
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27909,
@@ -6236,7 +6221,7 @@
   "qtd_percentual": 0.726
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28417,
@@ -6251,7 +6236,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28470,
@@ -6266,7 +6251,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28471,
@@ -6281,7 +6266,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 16,
   "num_programa": 27919,
@@ -6296,7 +6281,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28269,
@@ -6311,7 +6296,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28186,
@@ -6326,7 +6311,7 @@
   "qtd_percentual": 0.998
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28239,
@@ -6341,7 +6326,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27924,
@@ -6356,9 +6341,9 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 2,
+  "sequencia": 4,
   "num_programa": 28333,
   "data_programa": "09\/19\/2022 16:23",
   "num_ordem": 12165742,
@@ -6371,7 +6356,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 27928,
@@ -6386,7 +6371,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28240,
@@ -6401,7 +6386,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 27933,
@@ -6416,7 +6401,7 @@
   "qtd_percentual": 0.336
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 27934,
@@ -6431,7 +6416,7 @@
   "qtd_percentual": 0.343
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 27936,
@@ -6446,7 +6431,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28291,
@@ -6461,7 +6446,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 27,
   "num_programa": 28465,
@@ -6476,7 +6461,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28203,
@@ -6491,7 +6476,7 @@
   "qtd_percentual": 0.993
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28204,
@@ -6506,7 +6491,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 21,
   "num_programa": 27941,
@@ -6521,7 +6506,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28206,
@@ -6536,7 +6521,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 27946,
@@ -6551,7 +6536,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28108,
@@ -6566,7 +6551,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 16,
   "num_programa": 28109,
@@ -6581,7 +6566,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28344,
@@ -6596,7 +6581,7 @@
   "qtd_percentual": 0.646
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28345,
@@ -6611,7 +6596,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28212,
@@ -6626,7 +6611,7 @@
   "qtd_percentual": 0.556
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 17,
   "num_programa": 28241,
@@ -6641,7 +6626,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27990,
@@ -6656,7 +6641,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28483,
@@ -6671,7 +6656,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 27992,
@@ -6686,7 +6671,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 21,
   "num_programa": 28484,
@@ -6701,7 +6686,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28003,
@@ -6716,7 +6701,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28004,
@@ -6731,22 +6716,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
-  "alerta": 0,
-  "sequencia": 2,
-  "num_programa": 28312,
-  "data_programa": "09\/19\/2022 15:16",
-  "num_ordem": 12161743,
-  "ies_situa": 4,
-  "cod_item_cliente": "534894530 LE",
-  "cod_item": 870000318903,
-  "operacao": "036 - SOLDAR PINO",
-  "qtd_planej": 180,
-  "qtd_boas": 180,
-  "qtd_percentual": 1
- },
- {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 28006,
@@ -6761,7 +6731,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 28009,
@@ -6776,7 +6746,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 28009,
@@ -6791,7 +6761,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28010,
@@ -6806,7 +6776,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28010,
@@ -6821,7 +6791,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28011,
@@ -6836,7 +6806,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 16,
   "num_programa": 28109,
@@ -6851,7 +6821,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28242,
@@ -6866,7 +6836,7 @@
   "qtd_percentual": 1.916
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 22,
   "num_programa": 28172,
@@ -6881,7 +6851,7 @@
   "qtd_percentual": 0.378
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28485,
@@ -6896,7 +6866,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 21,
   "num_programa": 28048,
@@ -6911,7 +6881,7 @@
   "qtd_percentual": 0.24
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 28049,
@@ -6926,7 +6896,7 @@
   "qtd_percentual": 0.26
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28052,
@@ -6941,9 +6911,9 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 1,
+  "sequencia": 3,
   "num_programa": 28213,
   "data_programa": "09\/19\/2022 10:07",
   "num_ordem": 12165643,
@@ -6956,7 +6926,7 @@
   "qtd_percentual": 0.22
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28054,
@@ -6971,7 +6941,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28054,
@@ -6986,7 +6956,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 50,
   "num_programa": 28489,
@@ -7001,7 +6971,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28057,
@@ -7016,7 +6986,7 @@
   "qtd_percentual": 0.992
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28058,
@@ -7031,7 +7001,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28059,
@@ -7046,7 +7016,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28060,
@@ -7061,7 +7031,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28445,
@@ -7076,7 +7046,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 28067,
@@ -7091,7 +7061,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28069,
@@ -7106,7 +7076,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28072,
@@ -7121,7 +7091,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 28074,
@@ -7136,43 +7106,43 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28075,
   "data_programa": "09\/16\/2022 16:00",
   "num_ordem": 13739659,
-  "ies_situa": 3,
+  "ies_situa": 4,
   "cod_item_cliente": 26290065,
   "cod_item": 10000005570810,
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
-  "qtd_planej": 7000,
+  "qtd_planej": 7753,
   "qtd_boas": 0,
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28075,
   "data_programa": "09\/16\/2022 16:00",
   "num_ordem": 13739711,
-  "ies_situa": 3,
+  "ies_situa": 4,
   "cod_item_cliente": 26290066,
   "cod_item": 10000005571510,
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
-  "qtd_planej": 7000,
+  "qtd_planej": 7753,
   "qtd_boas": 0,
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28243,
   "data_programa": "09\/19\/2022 11:49",
   "num_ordem": 13759951,
-  "ies_situa": 2,
+  "ies_situa": 4,
   "cod_item_cliente": 52131212,
   "cod_item": 100000049300,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
@@ -7181,7 +7151,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28077,
@@ -7196,7 +7166,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28077,
@@ -7211,7 +7181,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28244,
@@ -7226,7 +7196,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28245,
@@ -7241,7 +7211,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28085,
@@ -7256,7 +7226,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28184,
@@ -7271,7 +7241,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28185,
@@ -7286,7 +7256,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28090,
@@ -7301,7 +7271,7 @@
   "qtd_percentual": 0.06
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28091,
@@ -7316,7 +7286,7 @@
   "qtd_percentual": 0.57
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28091,
@@ -7331,9 +7301,9 @@
   "qtd_percentual": 0.57
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 1,
+  "sequencia": 3,
   "num_programa": 28213,
   "data_programa": "09\/19\/2022 10:07",
   "num_ordem": 12165741,
@@ -7346,7 +7316,7 @@
   "qtd_percentual": 0.22
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28095,
@@ -7361,7 +7331,7 @@
   "qtd_percentual": 0.211
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28096,
@@ -7376,7 +7346,7 @@
   "qtd_percentual": 0.222
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 22,
   "num_programa": 28246,
@@ -7391,7 +7361,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28248,
@@ -7406,7 +7376,7 @@
   "qtd_percentual": 0.49
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28187,
@@ -7421,7 +7391,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28214,
@@ -7436,7 +7406,7 @@
   "qtd_percentual": 0.367
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28123,
@@ -7451,7 +7421,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28418,
@@ -7466,7 +7436,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28422,
@@ -7481,7 +7451,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28349,
@@ -7496,7 +7466,7 @@
   "qtd_percentual": 0.133
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28467,
@@ -7511,7 +7481,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28216,
@@ -7526,7 +7496,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 28,
   "num_programa": 28473,
@@ -7541,7 +7511,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28250,
@@ -7556,7 +7526,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 35,
   "num_programa": 28288,
@@ -7571,7 +7541,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 36,
   "num_programa": 28289,
@@ -7586,7 +7556,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28486,
@@ -7601,7 +7571,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28218,
@@ -7616,7 +7586,7 @@
   "qtd_percentual": 0.977
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28468,
@@ -7631,7 +7601,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28142,
@@ -7646,7 +7616,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28143,
@@ -7661,7 +7631,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28144,
@@ -7676,7 +7646,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28145,
@@ -7691,7 +7661,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28146,
@@ -7706,7 +7676,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28147,
@@ -7721,7 +7691,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28150,
@@ -7736,7 +7706,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28151,
@@ -7751,7 +7721,7 @@
   "qtd_percentual": 0.997
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28152,
@@ -7766,7 +7736,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28153,
@@ -7781,7 +7751,7 @@
   "qtd_percentual": 0.523
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 28154,
@@ -7796,7 +7766,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28374,
@@ -7811,7 +7781,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28156,
@@ -7826,7 +7796,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28157,
@@ -7841,7 +7811,7 @@
   "qtd_percentual": 0.169
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28423,
@@ -7856,7 +7826,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28421,
@@ -7871,7 +7841,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28159,
@@ -7886,7 +7856,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28159,
@@ -7901,7 +7871,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28161,
@@ -7916,7 +7886,7 @@
   "qtd_percentual": 0.58
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28162,
@@ -7931,7 +7901,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28163,
@@ -7946,7 +7916,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28424,
@@ -7961,7 +7931,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28166,
@@ -7976,7 +7946,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28167,
@@ -7991,7 +7961,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28169,
@@ -8006,7 +7976,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28173,
@@ -8021,7 +7991,7 @@
   "qtd_percentual": 0.278
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28174,
@@ -8036,7 +8006,7 @@
   "qtd_percentual": 0.289
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28175,
@@ -8051,7 +8021,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28175,
@@ -8066,7 +8036,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28487,
@@ -8081,7 +8051,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28177,
@@ -8096,7 +8066,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28187,
@@ -8111,7 +8081,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28188,
@@ -8126,7 +8096,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28490,
@@ -8141,7 +8111,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28191,
@@ -8156,7 +8126,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28192,
@@ -8171,7 +8141,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28220,
@@ -8186,7 +8156,7 @@
   "qtd_percentual": 0.1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28376,
@@ -8201,22 +8171,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
-  "alerta": 0,
-  "sequencia": 3,
-  "num_programa": 28251,
-  "data_programa": "09\/19\/2022 12:32",
-  "num_ordem": 12163019,
-  "ies_situa": 4,
-  "cod_item_cliente": "53489540 LD",
-  "cod_item": 870000319204,
-  "operacao": "037 - MONTAR E SOLDAR MIG",
-  "qtd_planej": 360,
-  "qtd_boas": 379,
-  "qtd_percentual": 1.053
- },
- {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28253,
@@ -8231,7 +8186,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28254,
@@ -8246,7 +8201,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28256,
@@ -8261,7 +8216,7 @@
   "qtd_percentual": 0.56
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 13,
   "num_programa": 28425,
@@ -8276,7 +8231,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28258,
@@ -8291,7 +8246,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28259,
@@ -8306,7 +8261,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28260,
@@ -8321,7 +8276,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28261,
@@ -8336,7 +8291,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28262,
@@ -8351,7 +8306,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28265,
@@ -8366,7 +8321,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28266,
@@ -8381,7 +8336,7 @@
   "qtd_percentual": 0.858
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28266,
@@ -8396,7 +8351,7 @@
   "qtd_percentual": 0.858
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28267,
@@ -8411,7 +8366,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28268,
@@ -8426,7 +8381,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28269,
@@ -8441,7 +8396,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28270,
@@ -8456,7 +8411,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28270,
@@ -8471,13 +8426,13 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28271,
   "data_programa": "09\/19\/2022 12:57",
   "num_ordem": 12160720,
-  "ies_situa": 3,
+  "ies_situa": 4,
   "cod_item_cliente": "534900820 LD",
   "cod_item": 870000326400,
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
@@ -8486,7 +8441,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28271,
@@ -8501,7 +8456,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28272,
@@ -8516,7 +8471,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28272,
@@ -8531,7 +8486,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28273,
@@ -8546,7 +8501,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28273,
@@ -8561,7 +8516,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28274,
@@ -8576,7 +8531,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 63,
   "num_programa": 28488,
@@ -8591,7 +8546,22 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": 7,
+  "num_programa": 28492,
+  "data_programa": "09\/20\/2022 16:54",
+  "num_ordem": 12172934,
+  "ies_situa": 4,
+  "cod_item_cliente": "534894480 LD",
+  "cod_item": 87000031900010,
+  "operacao": "036 - SOLDAR PINO",
+  "qtd_planej": 125,
+  "qtd_boas": 0,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28276,
@@ -8606,7 +8576,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28278,
@@ -8621,7 +8591,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28279,
@@ -8636,7 +8606,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28446,
@@ -8651,7 +8621,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 23,
   "num_programa": 28281,
@@ -8666,7 +8636,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 24,
   "num_programa": 28282,
@@ -8681,7 +8651,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28283,
@@ -8696,7 +8666,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28283,
@@ -8711,7 +8681,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 19,
   "num_programa": 28378,
@@ -8727,7 +8697,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 36,
   "num_programa": 28289,
@@ -8742,7 +8712,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28292,
@@ -8757,7 +8727,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28293,
@@ -8772,7 +8742,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28294,
@@ -8787,7 +8757,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28298,
@@ -8802,7 +8772,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28298,
@@ -8817,7 +8787,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28299,
@@ -8832,7 +8802,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28299,
@@ -8847,7 +8817,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28300,
@@ -8862,7 +8832,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28300,
@@ -8877,7 +8847,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28301,
@@ -8888,11 +8858,11 @@
   "cod_item": 87000031921020,
   "operacao": "014 - REPUXAR",
   "qtd_planej": 1200,
-  "qtd_boas": 1000,
-  "qtd_percentual": 0.833
+  "qtd_boas": 1167,
+  "qtd_percentual": 0.973
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28302,
@@ -8907,7 +8877,7 @@
   "qtd_percentual": 0.333
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28302,
@@ -8922,7 +8892,7 @@
   "qtd_percentual": 0.333
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28410,
@@ -8937,7 +8907,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28307,
@@ -8952,7 +8922,7 @@
   "qtd_percentual": 1.244
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28379,
@@ -8967,7 +8937,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28380,
@@ -8982,7 +8952,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28310,
@@ -8997,7 +8967,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28311,
@@ -9012,7 +8982,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28335,
@@ -9027,7 +8997,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 15,
   "num_programa": 28381,
@@ -9043,7 +9013,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 15,
   "num_programa": 28381,
@@ -9059,7 +9029,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28350,
@@ -9074,7 +9044,7 @@
   "qtd_percentual": 0.133
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 11,
   "num_programa": 28315,
@@ -9090,7 +9060,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28316,
@@ -9105,7 +9075,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 13,
   "num_programa": 28317,
@@ -9121,7 +9091,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 14,
   "num_programa": 28318,
@@ -9137,7 +9107,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28322,
@@ -9152,7 +9122,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28322,
@@ -9167,7 +9137,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 16,
   "num_programa": 28324,
@@ -9183,7 +9153,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 16,
   "num_programa": 28324,
@@ -9199,7 +9169,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28327,
@@ -9214,7 +9184,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 9,
   "num_programa": 28382,
@@ -9230,7 +9200,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28329,
@@ -9245,7 +9215,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 17,
   "num_programa": 28330,
@@ -9261,7 +9231,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 18,
   "num_programa": 28331,
@@ -9277,7 +9247,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 18,
   "num_programa": 28331,
@@ -9293,7 +9263,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28332,
@@ -9308,7 +9278,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28332,
@@ -9323,7 +9293,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28354,
@@ -9338,7 +9308,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28355,
@@ -9353,7 +9323,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28356,
@@ -9368,7 +9338,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28357,
@@ -9383,7 +9353,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28358,
@@ -9398,7 +9368,7 @@
   "qtd_percentual": 0.906
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28359,
@@ -9413,7 +9383,7 @@
   "qtd_percentual": 0.06
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28361,
@@ -9428,7 +9398,7 @@
   "qtd_percentual": 0.3
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28362,
@@ -9443,7 +9413,7 @@
   "qtd_percentual": 0.137
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28362,
@@ -9458,9 +9428,9 @@
   "qtd_percentual": 0.137
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": 5,
+  "sequencia": 4,
   "num_programa": 28363,
   "data_programa": "09\/20\/2022 7:38",
   "num_ordem": 12172933,
@@ -9473,7 +9443,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28365,
@@ -9484,11 +9454,11 @@
   "cod_item": 16000060730010,
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 600,
-  "qtd_boas": 180,
-  "qtd_percentual": 0.3
+  "qtd_boas": 181,
+  "qtd_percentual": 0.302
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28388,
@@ -9503,7 +9473,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28389,
@@ -9518,22 +9488,22 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28390,
   "data_programa": "09\/20\/2022 8:53",
   "num_ordem": 13770743,
-  "ies_situa": 3,
+  "ies_situa": 4,
   "cod_item_cliente": 85576818,
   "cod_item": 100000065700,
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
-  "qtd_planej": 3200,
+  "qtd_planej": 2000,
   "qtd_boas": 0,
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28391,
@@ -9548,7 +9518,7 @@
   "qtd_percentual": 0.723
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 28392,
@@ -9563,7 +9533,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28393,
@@ -9578,7 +9548,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28393,
@@ -9593,7 +9563,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28395,
@@ -9608,7 +9578,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28396,
@@ -9623,7 +9593,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 10,
   "num_programa": 28397,
@@ -9639,7 +9609,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 10,
   "num_programa": 28397,
@@ -9655,7 +9625,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 10,
   "num_programa": 28399,
@@ -9671,7 +9641,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 12,
   "num_programa": 28400,
@@ -9687,7 +9657,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28426,
@@ -9702,7 +9672,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 11,
   "num_programa": 28427,
@@ -9717,7 +9687,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 1,
   "sequencia": 5,
   "num_programa": 28402,
@@ -9733,7 +9703,7 @@
   "obs_alerta": "PEÇAS NOVA G.M"
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28403,
@@ -9748,7 +9718,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28404,
@@ -9763,7 +9733,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 4,
   "num_programa": 28404,
@@ -9778,7 +9748,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28405,
@@ -9793,7 +9763,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28412,
@@ -9808,7 +9778,7 @@
   "qtd_percentual": 1
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28428,
@@ -9823,7 +9793,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 10,
   "num_programa": 28429,
@@ -9838,7 +9808,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 19,
   "num_programa": 28432,
@@ -9853,7 +9823,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28433,
@@ -9868,7 +9838,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 3,
   "num_programa": 28434,
@@ -9883,7 +9853,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28436,
@@ -9898,7 +9868,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28436,
@@ -9913,7 +9883,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28439,
@@ -9928,7 +9898,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28440,
@@ -9943,7 +9913,7 @@
   "qtd_percentual": 0.436
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28440,
@@ -9958,7 +9928,7 @@
   "qtd_percentual": 0.436
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28441,
@@ -9973,7 +9943,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28442,
@@ -9988,7 +9958,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28443,
@@ -10003,7 +9973,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28446,
@@ -10018,7 +9988,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 12,
+  "cod_empresa": "12",
   "alerta": 0,
   "sequencia": 2,
   "num_programa": 28453,
@@ -10033,7 +10003,7 @@
   "qtd_percentual": 0.984
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 5,
   "num_programa": 28454,
@@ -10048,7 +10018,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 6,
   "num_programa": 28455,
@@ -10063,7 +10033,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28456,
@@ -10078,7 +10048,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 8,
   "num_programa": 28457,
@@ -10093,7 +10063,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 9,
   "num_programa": 28458,
@@ -10108,7 +10078,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 1,
   "num_programa": 28459,
@@ -10119,11 +10089,11 @@
   "cod_item": 870000319900,
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
-  "qtd_boas": 6043,
-  "qtd_percentual": 0.378
+  "qtd_boas": 6220,
+  "qtd_percentual": 0.389
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28460,
@@ -10138,7 +10108,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 14,
   "num_programa": 28461,
@@ -10153,7 +10123,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 15,
   "num_programa": 28462,
@@ -10168,7 +10138,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 12,
   "num_programa": 28463,
@@ -10183,7 +10153,7 @@
   "qtd_percentual": 0
  },
  {
-  "cod_empresa": 1,
+  "cod_empresa": "01",
   "alerta": 0,
   "sequencia": 7,
   "num_programa": 28466,
