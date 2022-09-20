@@ -25,7 +25,7 @@ namespace AppPingMobile.Modelo
     {
         public string Cod_empresa { get; set; }
         public string Alerta { get; set; }
-        public string Sequencia { get; set; }
+        public int Sequencia { get; set; }
         public string Num_programa { get; set; }
         public string Data_programa { get; set; }
         public string Cod_equip { get; set; }
