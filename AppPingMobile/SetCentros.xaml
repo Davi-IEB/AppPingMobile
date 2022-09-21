@@ -13,6 +13,7 @@
             <Frame BackgroundColor="#ED2500" Padding="10" CornerRadius="5" >
                 <Image Grid.Column="1" Source="LogoIebBranco" HorizontalOptions="Start" HeightRequest="50"/>
             </Frame>
+            <Label x:Name="lblCaminho" Text=""/>
             <ListView 
                 x:Name="lvCentros"
                 Margin="30,30,30,0"

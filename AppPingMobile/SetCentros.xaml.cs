@@ -25,6 +25,7 @@ namespace AppPingMobile
             items = await dataService.GetCentrosAsync();            
             var queryItems = from i in items where i.Cod_empresa == Empresas.Empresa.ToString() && i.Setor == Empresas.Setor.ToString() select i;            
             lvCentros.ItemsSource = queryItems;
+            lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString() + "/" + Empresas.Setor.ToString();
         }
         private async void lvCentros_ItemTapped(object sender, ItemTappedEventArgs e)
         {

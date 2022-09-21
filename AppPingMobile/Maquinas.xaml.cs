@@ -35,6 +35,7 @@ namespace AppPingMobile
             }
             var query = from i in maquinas where i.Cod_empresa==Empresas.Empresa.ToString() && i.Cod_cent_trab==Empresas.Centro.ToString() select i;
             lvMaquinas.ItemsSource = query;
+            lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString() + "/" + Empresas.Setor.ToString() + "/" + Empresas.Centro.ToString();
         }
         private void lvMaquinas_ItemTapped(object sender, ItemTappedEventArgs e)
         {
@@ -42,7 +43,7 @@ namespace AppPingMobile
                 return;
             if (sender is ListView list) list.BackgroundColor = Color.Transparent;
             var maq = e.Item as Maquina;
-            Empresas.Maquina = maq.Cod_equip;
+            Empresas.Maquina = maq.Cod_equip;            
         }
         private void Linha_Tapped(object sender, System.EventArgs e)
         {

@@ -23,6 +23,7 @@ namespace AppPingMobile
                 BtnSolda.Source = "soldaIgarassu";
                 BtnUsinagem.Source = "usinagemIgarassu";
             }
+            lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString();
         }
         private async void BtnEstamparia_Clicked(object sender, EventArgs e)
         {

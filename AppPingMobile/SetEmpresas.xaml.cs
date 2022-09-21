@@ -16,6 +16,7 @@ namespace AppPingMobile
         public SetEmpresas()
         {
             InitializeComponent();
+            lblCaminho.Text = "Caminho://ITAESBRA/";
         }
 
         private async void BtnDiadema_Clicked(object sender, EventArgs e)

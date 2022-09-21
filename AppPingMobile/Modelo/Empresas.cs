@@ -40,6 +40,11 @@ namespace AppPingMobile.Modelo
         public string Cod_cent_trab { get; set; }
         public string Den_cent_trab { get; set; }
     }
+    public class Caminho
+    {
+        public string Caminho_empresa { get; set; }
+    }
+
 
     
 }

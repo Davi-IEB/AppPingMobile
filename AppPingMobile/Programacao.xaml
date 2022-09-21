@@ -13,58 +13,61 @@
             <Frame BackgroundColor="#ED2500" Padding="10" CornerRadius="5" >
                 <Image Grid.Column="1" Source="LogoIebBranco" HorizontalOptions="Start" HeightRequest="50"/>
             </Frame>
-            <Label x:Name="lbl" Text="Welcome to Xamarin.Forms!"/>
+            <Label x:Name="lblCaminho" Text=""/>
+            <Frame Padding="10" CornerRadius="5" >
+                <Label x:Name="lblMaquina" TextColor="Black" FontSize="Title"/>
+            </Frame>
             <ListView 
                 x:Name="LvPrograma"
-                Margin="30,30,30,0"                
+                Margin="0,30,0,0"                
                 RowHeight="100"                
                 VerticalScrollBarVisibility="Always"
                 SelectionMode="Single"
                 HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <ViewCell>
+                        <ViewCell x:Name="Linha" Tapped="Linha_Tapped">
                             <StackLayout Orientation="Horizontal" Padding="10">
                                 <Frame Padding="10">
                                     <StackLayout Orientation="Horizontal">
                                         <Label Text="{Binding Sequencia}" TextColor="Black" FontSize="Title" VerticalOptions="CenterAndExpand"/>
-                                        <Image Source="semFoto" HeightRequest="90" WidthRequest="90" Margin="15,0,0,0" VerticalOptions="CenterAndExpand"/>
+                                        <Image Source="semFoto" HeightRequest="70" WidthRequest="70" Margin="15,0,0,0" VerticalOptions="CenterAndExpand"/>
                                     </StackLayout>
                                 </Frame>                                
-                                <StackLayout Orientation="Vertical" Margin="10,0,0,0" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+                                <StackLayout Orientation="Vertical" Margin="5,0,0,0" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
                                     <Frame Padding="8">
                                         <StackLayout Orientation="Horizontal">
-                                            <Label Text="Programa: " TextColor="Black"/>
-                                            <Label Text="{Binding Num_programa}" TextColor="Black"/>
-                                            <Label Text="Data: " Margin="10,0,0,0" TextColor="Black"/>
-                                            <Label Text="{Binding Data_programa}" TextColor="Black"/>
+                                            <Label Text="Programa:" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Num_programa}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Data:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Data_programa}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
                                     <Frame Padding="8">
                                         <StackLayout Orientation="Horizontal">
-                                            <Label Text="PartNumber: " TextColor="Black"/>
-                                            <Label Text="{Binding Cod_item_cliente}" TextColor="Black"/>
-                                            <Label Text="Item(Logix): " Margin="10,0,0,0" TextColor="Black"/>
-                                            <Label Text="{Binding Cod_item}" TextColor="Black"/>
-                                            <Label Text="Operação: " Margin="10,0,0,0" TextColor="Black"/>
-                                            <Label Text="{Binding Operacao}" TextColor="Black"/>
+                                            <Label Text="PartNumber:" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Cod_item_cliente}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Logix:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Cod_item}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Operação:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Operacao}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
                                     <Frame Padding="8">
                                         <StackLayout Orientation="Horizontal">
-                                            <Label Text="Ordem: " TextColor="Black"/>
-                                            <Label Text="{Binding Num_ordem}" TextColor="Black"/>
-                                            <Label Text="Qtde. Planejada: " TextColor="Black" Margin="10,0,0,0"/>
-                                            <Label Text="{Binding Qtd_planej}" TextColor="Black"/>
-                                            <Label Text="Qtde. Realizada: " TextColor="Black" Margin="10,0,0,0"/>
-                                            <Label Text="{Binding Qtd_boas}" TextColor="Black"/>
-                                            <Label Text="Percentual: " Margin="10,0,0,0" TextColor="Black"/>
-                                            <Label Text="{Binding Qtd_percentual, StringFormat='{0:P2}'}" TextColor="Black"/>
+                                            <Label Text="Ordem: " TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Num_ordem}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Qtde. Planejada:" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="{Binding Qtd_planej}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Qtde. Realizada:" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="{Binding Qtd_boas}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Percentual:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Qtd_percentual, StringFormat='{0:P2}'}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
                                     <Frame Padding="8">
                                         <StackLayout Orientation="Horizontal">
-                                            <Image Source="" HeightRequest="16" WidthRequest="16" HorizontalOptions="Start">
+                                            <Image Source="" HeightRequest="20" WidthRequest="20" HorizontalOptions="Start">
                                                 <Image.Triggers>
                                                     <DataTrigger TargetType="Image" Binding="{Binding Alerta}" Value="1">
                                                         <Setter Property="Source" Value="atencao.png"/>
@@ -80,11 +83,11 @@
                                                     </DataTrigger>
                                                 </Image.Triggers>
                                             </Image>
-                                            <Label Text="Alerta/Observação" TextColor="Black" Margin="10,0,0,0"/>
-                                            <Label Text="{Binding Obs_alerta}" TextColor="Black"/>
+                                            <Label Text="Alerta/Observação" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="{Binding Obs_alerta}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
-                                </StackLayout>
+                                </StackLayout>                                                   
                             </StackLayout>                            
                         </ViewCell>
                     </DataTemplate>

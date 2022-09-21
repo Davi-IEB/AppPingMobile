@@ -2,7 +2,7 @@
 SELECT
 PM.cod_empresa,
 PM.alerta,
-PM.sequencia,
+lpad(PM.sequencia,2,'0') AS sequencia,
 PM.num_programa,
 PM.data_programa,
 PM.cod_equip,

@@ -16,6 +16,7 @@
                     <ImageButton x:Name="BtnSair" Grid.Column="1" Source="sairBranco" BackgroundColor="#ED2500" Padding="10" HorizontalOptions="End" HeightRequest="50" Clicked="BtnSair_Clicked"/>
                 </Grid>
             </Frame>
+            <Label x:Name="lblCaminho" Text=""/>
             <ImageButton
                     x:Name="BtnDiadema"
                     Source="iebDiadema.png"
