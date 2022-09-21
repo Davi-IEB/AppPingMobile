@@ -45,9 +45,12 @@
                                         <Frame Grid.Column="2" CornerRadius="5" HasShadow="True" Padding="5">
                                             <StackLayout Grid.Column="2" Orientation="Vertical">
                                                 <Label Text="% Ocupação" TextColor="Black" FontSize="Caption" VerticalOptions="Start"/>
-                                                <Label Text="{Binding Percentual, StringFormat='{0:P1}'}" TextColor="Black" FontSize="Large" HorizontalOptions="Center" VerticalOptions="End">
-                                                    
-                                                   
+                                                <Label x:Name="L" Text="{Binding Percentual, StringFormat='{0:P1}'}" TextColor="Black" FontSize="Large" HorizontalOptions="Center" VerticalOptions="End">
+                                                    <!--<Label.Triggers>
+                                                        <DataTrigger TargetType="Label" Binding="{Binding Source={x:Reference L}, Path=Text.Length}" Value="5">
+                                                            <Setter Property="TextColor" Value="Red"/>
+                                                        </DataTrigger>
+                                                    </Label.Triggers>-->                                                   
                                                 </Label>
                                             </StackLayout>
                                         </Frame>

@@ -88,7 +88,11 @@
                                         </StackLayout>
                                     </Frame>
                                 </StackLayout>                                                   
-                            </StackLayout>                            
+                            </StackLayout>
+                            <ViewCell.ContextActions>                                
+                                <MenuItem x:Name="BtnDetalhes" Text="Detalhes" CommandParameter="{Binding .}" Clicked="BtnDetalhes_Clicked" IconImageSource="detail.png"/>
+                                <MenuItem x:Name="BtnDocumentacao" Text="Documentação" CommandParameter="{Binding .}" Clicked="BtnDocumentacao_Clicked" IconImageSource="adobe.png"/>
+                            </ViewCell.ContextActions>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

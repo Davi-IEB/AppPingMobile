@@ -40,5 +40,15 @@ namespace AppPingMobile
                 cell = viewCell;
             }
         }
+
+        private async void BtnDetalhes_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Detalhes());
+        }
+
+        private async void BtnDocumentacao_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Documentacao());
+        }
     }
 }
