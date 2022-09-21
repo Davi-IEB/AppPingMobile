@@ -36,7 +36,6 @@ namespace AppPingMobile
             var query = from i in maquinas where i.Cod_empresa==Empresas.Empresa.ToString() && i.Cod_cent_trab==Empresas.Centro.ToString() select i;
             lvMaquinas.ItemsSource = query;
         }
-
         private void lvMaquinas_ItemTapped(object sender, ItemTappedEventArgs e)
         {
             if (lvMaquinas.SelectedItem == null)
@@ -44,9 +43,7 @@ namespace AppPingMobile
             if (sender is ListView list) list.BackgroundColor = Color.Transparent;
             var maq = e.Item as Maquina;
             Empresas.Maquina = maq.Cod_equip;
-            
         }
-
         private void Linha_Tapped(object sender, System.EventArgs e)
         {
             if (cell != null)
@@ -59,7 +56,6 @@ namespace AppPingMobile
                 cell = viewCell;
             }
         }
-
         private async void BtnProgramacao_Clicked(object sender, System.EventArgs e)
         {
             if (Empresas.Maquina == null)

@@ -85,11 +85,6 @@
                                         </StackLayout>
                                     </Frame>
                                 </StackLayout>
-                                <Frame Margin="10,0,0,0" Padding="10">
-                                    <StackLayout Orientation="Vertical">
-                                        
-                                    </StackLayout>                                    
-                                </Frame>                                
                             </StackLayout>                            
                         </ViewCell>
                     </DataTemplate>

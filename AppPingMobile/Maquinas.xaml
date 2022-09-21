@@ -24,14 +24,10 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell x:Name="Linha" Tapped="Linha_Tapped">
-                            
                             <StackLayout Orientation="Horizontal" Padding="10">
-                                
                                 <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
-                                    
                                     <Label Text="{Binding Cod_equip}" TextColor="Black" FontSize="Title" FontAttributes="Bold"/>
                                     <Label Text="{Binding Den_cent_trab}" TextColor="Black" FontSize="Subtitle"/>
-                                    
                                     <Grid ColumnDefinitions="*,*,*" HorizontalOptions="StartAndExpand">
                                         <Frame CornerRadius="5" HasShadow="True" Padding="5">
                                             <StackLayout Orientation="Vertical" Padding="2">
@@ -55,9 +51,7 @@
                                             </StackLayout>
                                         </Frame>
                                     </Grid>
-                                    
                                 </StackLayout>
-                                
                                 <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
                                     <ImageButton
                                         x:Name="BtnProgramacao"
@@ -99,11 +93,7 @@
                                         </android:ImageButton.ShadowOffset>
                                     </ImageButton>
                                 </StackLayout>
-                                
                             </StackLayout>
-
-                            
-                            
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
