@@ -30,7 +30,7 @@
                             <StackLayout Orientation="Horizontal" Padding="10">
                                 <Frame Padding="10">
                                     <StackLayout Orientation="Horizontal">
-                                        <Label Text="{Binding Sequencia}" TextColor="Black" FontSize="Title" VerticalOptions="CenterAndExpand"/>
+                                        <Label Text="{Binding Sequencia}" TextColor="Black" FontSize="16" FontAttributes="Bold" VerticalOptions="CenterAndExpand"/>
                                         <Image Source="semFoto" HeightRequest="70" WidthRequest="70" Margin="15,0,0,0" VerticalOptions="CenterAndExpand"/>
                                     </StackLayout>
                                 </Frame>                                
@@ -39,7 +39,7 @@
                                         <StackLayout Orientation="Horizontal">
                                             <Label Text="Programa:" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Num_programa}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Data:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="Data:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Data_programa}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
@@ -47,9 +47,9 @@
                                         <StackLayout Orientation="Horizontal">
                                             <Label Text="PartNumber:" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Cod_item_cliente}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Logix:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="Logix:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Cod_item}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Operação:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="Operação:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Operacao}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
@@ -57,13 +57,13 @@
                                         <StackLayout Orientation="Horizontal">
                                             <Label Text="Ordem: " TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Num_ordem}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Qtde. Planejada:" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="Qtde. Planejada:" TextColor="Black" FontSize="10" Margin="2,0,0,0"/>
                                             <Label Text="{Binding Qtd_planej}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Qtde. Realizada:" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="Qtde. Realizada:" TextColor="Black" FontSize="10" Margin="2,0,0,0"/>
                                             <Label Text="{Binding Qtd_boas}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Percentual:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="Percentual:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Qtd_percentual, StringFormat='{0:P2}'}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            <Label Text="Horas Necessárias:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="Horas Necessárias:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Horas_necessarias, StringFormat='{0:N2}'}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
@@ -85,7 +85,7 @@
                                                     </DataTrigger>
                                                 </Image.Triggers>
                                             </Image>
-                                            <Label Text="Alerta/Observação" TextColor="Black" FontSize="10" Margin="5,0,0,0"/>
+                                            <Label Text="Alerta/Observação" TextColor="Black" FontSize="10" Margin="2,0,0,0"/>
                                             <Label Text="{Binding Obs_alerta}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
