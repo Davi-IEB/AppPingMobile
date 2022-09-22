@@ -7,7 +7,7 @@
             <Style TargetType="ContentPage" x:Key="PageStyle">
                 <Setter Property="BackgroundColor" Value="#ffff"/>
             </Style>
-            <Color x:Key="colorTitle">#000</Color>
-        </ResourceDictionary>
+            <Color x:Key="colorTitle">#000</Color>            
+        </ResourceDictionary>        
     </Application.Resources>
 </Application>

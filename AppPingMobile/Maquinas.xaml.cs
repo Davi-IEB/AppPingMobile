@@ -8,6 +8,8 @@ using Newtonsoft.Json;
 using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
 using ListView = Xamarin.Forms.ListView;
 using System;
+using System.Globalization;
+using System.Diagnostics;
 
 namespace AppPingMobile
 {
@@ -17,6 +19,23 @@ namespace AppPingMobile
         ServicoDeDados dataService;
         List<Maquina> maquinas;
         ViewCell cell;
+
+        public class MultiTriggerConverter : IValueConverter
+        {
+            public object Convert(object value, Type targetType,
+                object parameter, CultureInfo culture)
+            {
+                if ((int)value >= 90)
+                    return true;
+                else
+                    return false;
+            }
+            public object ConvertBack(object value, Type targetType,
+                object parameter, CultureInfo culture)
+            {
+                throw new NotSupportedException();
+            }
+        }
 
         public Maquinas()
         {
@@ -32,6 +51,19 @@ namespace AppPingMobile
             {
                 i.Horas_disponiveis = Disponibilidade.HDisponivel;
                 i.Percentual = i.Horas_necessarias / Disponibilidade.HDisponivel;
+                float f = (float)i.Percentual;
+                if (f >= 1)
+                {
+                    i.StatusPercentual = "Red";
+                }                    
+                else if(f < 1 && f >= 0.9)
+                {
+                    i.StatusPercentual = "Yellow";
+                }
+                else
+                {
+                    i.StatusPercentual = "Black";
+                }
             }
             var query = from i in maquinas where i.Cod_empresa==Empresas.Empresa.ToString() && i.Cod_cent_trab==Empresas.Centro.ToString() select i;
             lvMaquinas.ItemsSource = query;

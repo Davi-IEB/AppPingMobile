@@ -13,6 +13,7 @@ namespace AppPingMobile.Modelo
         public decimal Horas_necessarias { get; set; }
         public decimal Horas_disponiveis { get; set; }
         public decimal Percentual { get; set; }
+        public string StatusPercentual { get; set; }
 
     }
 
