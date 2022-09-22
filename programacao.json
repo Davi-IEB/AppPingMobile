@@ -13,6 +13,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 14.286,
   "qtd_percentual": 0
  },
  {
@@ -29,6 +30,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -45,6 +47,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 27.778,
   "qtd_percentual": 0
  },
  {
@@ -61,6 +64,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 27.778,
   "qtd_percentual": 0
  },
  {
@@ -77,6 +81,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.286,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA PORÉM LIBERADA."
  },
@@ -94,6 +99,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 1159,
   "qtd_boas": 0,
+  "horas_necessarias": 1.148,
   "qtd_percentual": 0,
   "obs_alerta": "SO PRODUZIR COM ACOMPANHAMENTO DO BRUNO"
  },
@@ -111,6 +117,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.083,
   "qtd_percentual": 0
  },
  {
@@ -127,6 +134,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.538,
   "qtd_percentual": 0
  },
  {
@@ -143,6 +151,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3447,
   "qtd_boas": 0,
+  "horas_necessarias": 11.49,
   "qtd_percentual": 0
  },
  {
@@ -159,6 +168,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 13490,
   "qtd_boas": 0,
+  "horas_necessarias": 5.668,
   "qtd_percentual": 0
  },
  {
@@ -175,6 +185,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -191,6 +202,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 14.815,
   "qtd_percentual": 0
  },
  {
@@ -207,6 +219,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 10,
   "qtd_percentual": 0
  },
  {
@@ -223,6 +236,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 9.615,
   "qtd_percentual": 0
  },
  {
@@ -239,6 +253,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 56380,
   "qtd_boas": 0,
+  "horas_necessarias": 22.826,
   "qtd_percentual": 0
  },
  {
@@ -255,6 +270,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 4.118,
   "qtd_percentual": 0
  },
  {
@@ -271,6 +287,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 3000,
   "qtd_boas": 2067,
+  "horas_necessarias": 5.155,
   "qtd_percentual": 0.689
  },
  {
@@ -287,6 +304,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.801,
   "qtd_percentual": 0
  },
  {
@@ -303,6 +321,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 10.204,
   "qtd_percentual": 0
  },
  {
@@ -319,6 +338,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 3810,
+  "horas_necessarias": 99.545,
   "qtd_percentual": 0.635
  },
  {
@@ -335,6 +355,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 3810,
+  "horas_necessarias": 99.545,
   "qtd_percentual": 0.635
  },
  {
@@ -351,6 +372,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 8000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.048,
   "qtd_percentual": 0
  },
  {
@@ -367,6 +389,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 2435,
+  "horas_necessarias": 71.3,
   "qtd_percentual": 0.406
  },
  {
@@ -383,6 +406,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
   "qtd_boas": 8884,
+  "horas_necessarias": 59.3,
   "qtd_percentual": 0.555
  },
  {
@@ -399,6 +423,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -415,6 +440,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 899,
   "qtd_boas": 0,
+  "horas_necessarias": 2.644,
   "qtd_percentual": 0
  },
  {
@@ -431,6 +457,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 2214,
+  "horas_necessarias": 135.214,
   "qtd_percentual": 0.369
  },
  {
@@ -447,6 +474,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 2214,
+  "horas_necessarias": 130.552,
   "qtd_percentual": 0.369
  },
  {
@@ -463,6 +491,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4761,
   "qtd_boas": 4746,
+  "horas_necessarias": 0.011,
   "qtd_percentual": 0.997
  },
  {
@@ -479,6 +508,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4761,
   "qtd_boas": 4746,
+  "horas_necessarias": 0.011,
   "qtd_percentual": 0.997
  },
  {
@@ -495,6 +525,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 1256,
   "qtd_boas": 1279,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.018
  },
  {
@@ -511,6 +542,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 6000,
   "qtd_boas": 2428,
+  "horas_necessarias": 71.44,
   "qtd_percentual": 0.405
  },
  {
@@ -527,6 +559,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 500,
   "qtd_boas": 432,
+  "horas_necessarias": 2.7199999999999998,
   "qtd_percentual": 0.864
  },
  {
@@ -543,6 +576,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 909,
   "qtd_boas": 0,
+  "horas_necessarias": 2.98,
   "qtd_percentual": 0
  },
  {
@@ -559,6 +593,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 909,
   "qtd_boas": 0,
+  "horas_necessarias": 2.066,
   "qtd_percentual": 0
  },
  {
@@ -575,6 +610,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 3528,
   "qtd_boas": 0,
+  "horas_necessarias": 9.882,
   "qtd_percentual": 0
  },
  {
@@ -591,6 +627,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.75,
   "qtd_percentual": 0
  },
  {
@@ -607,6 +644,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 24479,
   "qtd_boas": 18846,
+  "horas_necessarias": 3.347,
   "qtd_percentual": 0.77
  },
  {
@@ -623,6 +661,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1800,
   "qtd_boas": 0,
+  "horas_necessarias": 7.5,
   "qtd_percentual": 0
  },
  {
@@ -639,6 +678,7 @@
   "operacao": "054 - MONTAR SCJ. MANUALMENTE",
   "qtd_planej": 432,
   "qtd_boas": 72,
+  "horas_necessarias": 6,
   "qtd_percentual": 0.167,
   "obs_alerta": "URGENTE"
  },
@@ -656,6 +696,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10651,
   "qtd_boas": 0,
+  "horas_necessarias": 3.074,
   "qtd_percentual": 0
  },
  {
@@ -672,6 +713,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 2685,
   "qtd_boas": 0,
+  "horas_necessarias": 10.327,
   "qtd_percentual": 0
  },
  {
@@ -688,6 +730,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 15147,
   "qtd_boas": 0,
+  "horas_necessarias": 4.704,
   "qtd_percentual": 0
  },
  {
@@ -704,6 +747,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.936,
   "qtd_percentual": 0
  },
  {
@@ -720,6 +764,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -736,6 +781,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.571,
   "qtd_percentual": 0
  },
  {
@@ -752,6 +798,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 2.614,
   "qtd_percentual": 0
  },
  {
@@ -768,6 +815,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 2.614,
   "qtd_percentual": 0
  },
  {
@@ -784,6 +832,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1780,
   "qtd_boas": 0,
+  "horas_necessarias": 7.417,
   "qtd_percentual": 0
  },
  {
@@ -800,6 +849,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1780,
   "qtd_boas": 0,
+  "horas_necessarias": 7.417,
   "qtd_percentual": 0
  },
  {
@@ -816,6 +866,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.409,
   "qtd_percentual": 0
  },
  {
@@ -832,6 +883,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 2500,
   "qtd_boas": 1506,
+  "horas_necessarias": 6.855,
   "qtd_percentual": 0.602
  },
  {
@@ -848,6 +900,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 4266,
   "qtd_boas": 0,
+  "horas_necessarias": 8.126,
   "qtd_percentual": 0
  },
  {
@@ -864,6 +917,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.619,
   "qtd_percentual": 0
  },
  {
@@ -880,6 +934,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 8255,
   "qtd_boas": 0,
+  "horas_necessarias": 15.724,
   "qtd_percentual": 0
  },
  {
@@ -896,6 +951,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 2000,
   "qtd_boas": 369,
+  "horas_necessarias": 3.883,
   "qtd_percentual": 0.185
  },
  {
@@ -912,6 +968,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.429,
   "qtd_percentual": 0
  },
  {
@@ -928,6 +985,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 24479,
   "qtd_boas": 18846,
+  "horas_necessarias": 3.347,
   "qtd_percentual": 0.77
  },
  {
@@ -944,6 +1002,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.714,
   "qtd_percentual": 0
  },
  {
@@ -960,6 +1019,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.714,
   "qtd_percentual": 0
  },
  {
@@ -976,6 +1036,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 10.204,
   "qtd_percentual": 0
  },
  {
@@ -992,6 +1053,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.167,
   "qtd_percentual": 0
  },
  {
@@ -1008,6 +1070,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.75,
   "qtd_percentual": 0
  },
  {
@@ -1024,6 +1087,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.108,
   "qtd_percentual": 0
  },
  {
@@ -1040,6 +1104,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.677,
   "qtd_percentual": 0
  },
  {
@@ -1056,6 +1121,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.699,
   "qtd_percentual": 0
  },
  {
@@ -1072,6 +1138,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.699,
   "qtd_percentual": 0
  },
  {
@@ -1088,6 +1155,7 @@
   "operacao": "015 - RECORTAR",
   "qtd_planej": 5000,
   "qtd_boas": 2700,
+  "horas_necessarias": 5.75,
   "qtd_percentual": 0.54
  },
  {
@@ -1104,6 +1172,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 1296,
+  "horas_necessarias": 2.56,
   "qtd_percentual": 0.648
  },
  {
@@ -1120,6 +1189,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 736,
+  "horas_necessarias": 4.596,
   "qtd_percentual": 0.368
  },
  {
@@ -1136,6 +1206,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 1296,
+  "horas_necessarias": 2.56,
   "qtd_percentual": 0.648
  },
  {
@@ -1152,6 +1223,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 736,
+  "horas_necessarias": 4.596,
   "qtd_percentual": 0.368
  },
  {
@@ -1168,6 +1240,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.719,
   "qtd_percentual": 0
  },
  {
@@ -1184,6 +1257,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.719,
   "qtd_percentual": 0
  },
  {
@@ -1200,6 +1274,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -1216,6 +1291,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 9.804,
   "qtd_percentual": 0
  },
  {
@@ -1232,6 +1308,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 12,
   "qtd_percentual": 0
  },
  {
@@ -1248,6 +1325,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 4,
   "qtd_percentual": 0
  },
  {
@@ -1264,6 +1342,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 600,
   "qtd_boas": 280,
+  "horas_necessarias": 4,
   "qtd_percentual": 0.467
  },
  {
@@ -1280,6 +1359,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -1296,6 +1376,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 4282,
   "qtd_boas": 0,
+  "horas_necessarias": 45.074,
   "qtd_percentual": 0
  },
  {
@@ -1312,6 +1393,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3250,
   "qtd_boas": 0,
+  "horas_necessarias": 12.037,
   "qtd_percentual": 0
  },
  {
@@ -1328,6 +1410,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.407,
   "qtd_percentual": 0
  },
  {
@@ -1344,6 +1427,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -1360,6 +1444,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1600,
   "qtd_boas": 0,
+  "horas_necessarias": 6.349,
   "qtd_percentual": 0
  },
  {
@@ -1376,6 +1461,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1600,
   "qtd_boas": 0,
+  "horas_necessarias": 6.349,
   "qtd_percentual": 0
  },
  {
@@ -1392,6 +1478,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.667,
   "qtd_percentual": 0
  },
  {
@@ -1408,6 +1495,7 @@
   "operacao": "050 - REPASSAR FURO ESCAR.E ROSQUEAR",
   "qtd_planej": 3003,
   "qtd_boas": 3003,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -1424,6 +1512,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 720,
   "qtd_boas": 0,
+  "horas_necessarias": 6.545,
   "qtd_percentual": 0
  },
  {
@@ -1440,6 +1529,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2300,
   "qtd_boas": 0,
+  "horas_necessarias": 6.97,
   "qtd_percentual": 0
  },
  {
@@ -1456,6 +1546,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 10580,
   "qtd_boas": 0,
+  "horas_necessarias": 17.344,
   "qtd_percentual": 0
  },
  {
@@ -1472,6 +1563,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.333,
   "qtd_percentual": 0
  },
  {
@@ -1488,6 +1580,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.667,
   "qtd_percentual": 0
  },
  {
@@ -1504,6 +1597,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 12.5,
   "qtd_percentual": 0
  },
  {
@@ -1520,6 +1614,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 14059,
   "qtd_boas": 0,
+  "horas_necessarias": 25.515,
   "qtd_percentual": 0
  },
  {
@@ -1536,6 +1631,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 500,
+  "horas_necessarias": 1.19,
   "qtd_percentual": 0.625
  },
  {
@@ -1552,6 +1648,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 1000,
   "qtd_boas": 567,
+  "horas_necessarias": 4.811,
   "qtd_percentual": 0.567
  },
  {
@@ -1568,6 +1665,7 @@
   "operacao": "024 - DOBRAR",
   "qtd_planej": 5715,
   "qtd_boas": 0,
+  "horas_necessarias": 9.218,
   "qtd_percentual": 0
  },
  {
@@ -1584,6 +1682,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 14394,
   "qtd_boas": 8646,
+  "horas_necessarias": 3.107,
   "qtd_percentual": 0.601
  },
  {
@@ -1600,6 +1699,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -1616,6 +1716,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -1633,6 +1734,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 6,
   "qtd_percentual": 0
  },
  {
@@ -1649,6 +1751,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 250,
   "qtd_boas": 250,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -1665,6 +1768,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 3.429,
   "qtd_percentual": 0
  },
  {
@@ -1681,6 +1785,7 @@
   "operacao": "024 - DOBRAR",
   "qtd_planej": 5715,
   "qtd_boas": 0,
+  "horas_necessarias": 11.43,
   "qtd_percentual": 0
  },
  {
@@ -1697,6 +1802,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3200,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -1713,6 +1819,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 405,
+  "horas_necessarias": 7.973,
   "qtd_percentual": 0.579
  },
  {
@@ -1729,6 +1836,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3598,
   "qtd_boas": 0,
+  "horas_necessarias": 14.992,
   "qtd_percentual": 0
  },
  {
@@ -1745,6 +1853,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 6000,
   "qtd_boas": 2247,
+  "horas_necessarias": 17.871,
   "qtd_percentual": 0.375
  },
  {
@@ -1761,6 +1870,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.464,
   "qtd_percentual": 0
  },
  {
@@ -1777,6 +1887,7 @@
   "operacao": "064 - SOLDAR ABA PROJECAO",
   "qtd_planej": 3000,
   "qtd_boas": 1082,
+  "horas_necessarias": 14.421,
   "qtd_percentual": 0.361
  },
  {
@@ -1793,6 +1904,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 434,
+  "horas_necessarias": 12.046,
   "qtd_percentual": 0.217
  },
  {
@@ -1809,6 +1921,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2300,
   "qtd_boas": 0,
+  "horas_necessarias": 6.97,
   "qtd_percentual": 0
  },
  {
@@ -1825,6 +1938,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2800,
   "qtd_boas": 0,
+  "horas_necessarias": 2.059,
   "qtd_percentual": 0
  },
  {
@@ -1841,6 +1955,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 12.5,
   "qtd_percentual": 0
  },
  {
@@ -1857,6 +1972,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 20000,
   "qtd_boas": 0,
+  "horas_necessarias": 10.417,
   "qtd_percentual": 0
  },
  {
@@ -1873,6 +1989,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 0,
+  "horas_necessarias": 22.581,
   "qtd_percentual": 0
  },
  {
@@ -1889,6 +2006,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 6000,
   "qtd_boas": 1449,
+  "horas_necessarias": 18.204,
   "qtd_percentual": 0.242
  },
  {
@@ -1905,6 +2023,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 6000,
   "qtd_boas": 1190,
+  "horas_necessarias": 19.24,
   "qtd_percentual": 0.198
  },
  {
@@ -1921,6 +2040,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2200,
   "qtd_boas": 0,
+  "horas_necessarias": 7.333,
   "qtd_percentual": 0
  },
  {
@@ -1937,6 +2057,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2200,
   "qtd_boas": 0,
+  "horas_necessarias": 7.333,
   "qtd_percentual": 0
  },
  {
@@ -1953,6 +2074,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 8000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.301,
   "qtd_percentual": 0
  },
  {
@@ -1969,6 +2091,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -1985,6 +2108,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 7000,
   "qtd_boas": 5103,
+  "horas_necessarias": 9.033,
   "qtd_percentual": 0.729
  },
  {
@@ -2001,6 +2125,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
   "qtd_boas": 8815,
+  "horas_necessarias": 179.625,
   "qtd_percentual": 0.551
  },
  {
@@ -2017,6 +2142,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 17.857,
   "qtd_percentual": 0
  },
  {
@@ -2032,8 +2158,9 @@
   "cod_item": 87000032110020,
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 2600,
-  "qtd_boas": 1897,
-  "qtd_percentual": 0.73
+  "qtd_boas": 2018,
+  "horas_necessarias": 3.063,
+  "qtd_percentual": 0.776
  },
  {
   "cod_empresa": "01",
@@ -2049,6 +2176,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 792,
   "qtd_boas": 0,
+  "horas_necessarias": 4.281,
   "qtd_percentual": 0
  },
  {
@@ -2065,6 +2193,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 792,
   "qtd_boas": 0,
+  "horas_necessarias": 4.281,
   "qtd_percentual": 0
  },
  {
@@ -2081,6 +2210,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.75,
   "qtd_percentual": 0
  },
  {
@@ -2097,6 +2227,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 7000,
   "qtd_boas": 5709,
+  "horas_necessarias": 2.968,
   "qtd_percentual": 0.816
  },
  {
@@ -2113,6 +2244,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.043,
   "qtd_percentual": 0
  },
  {
@@ -2129,6 +2261,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 601,
+  "horas_necessarias": 2.494,
   "qtd_percentual": 0.601
  },
  {
@@ -2145,6 +2278,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 1375,
   "qtd_boas": 797,
+  "horas_necessarias": 13.762,
   "qtd_percentual": 0.58
  },
  {
@@ -2161,6 +2295,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 40,
   "qtd_percentual": 0
  },
  {
@@ -2177,6 +2312,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 500,
   "qtd_boas": 506,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.012
  },
  {
@@ -2193,6 +2329,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.738,
   "qtd_percentual": 0
  },
  {
@@ -2209,6 +2346,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 16000,
   "qtd_boas": 0,
+  "horas_necessarias": 17.778,
   "qtd_percentual": 0
  },
  {
@@ -2225,6 +2363,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 11.29,
   "qtd_percentual": 0
  },
  {
@@ -2241,6 +2380,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 12.069,
   "qtd_percentual": 0
  },
  {
@@ -2257,6 +2397,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 12.121,
   "qtd_percentual": 0
  },
  {
@@ -2273,6 +2414,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 344,
+  "horas_necessarias": 8.158,
   "qtd_percentual": 0.172
  },
  {
@@ -2289,6 +2431,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3200,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -2305,6 +2448,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1400,
   "qtd_boas": 1038,
+  "horas_necessarias": 2.194,
   "qtd_percentual": 0.741
  },
  {
@@ -2321,6 +2465,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1400,
   "qtd_boas": 650,
+  "horas_necessarias": 4.545,
   "qtd_percentual": 0.464
  },
  {
@@ -2337,6 +2482,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 1944,
   "qtd_boas": 0,
+  "horas_necessarias": 48.6,
   "qtd_percentual": 0
  },
  {
@@ -2353,6 +2499,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 2000,
   "qtd_boas": 570,
+  "horas_necessarias": 23.833,
   "qtd_percentual": 0.285
  },
  {
@@ -2369,6 +2516,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 10.667,
   "qtd_percentual": 0
  },
  {
@@ -2385,6 +2533,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -2401,6 +2550,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 4343,
   "qtd_boas": 2850,
+  "horas_necessarias": 4.266,
   "qtd_percentual": 0.656
  },
  {
@@ -2417,6 +2567,7 @@
   "operacao": "085 - REBITAR",
   "qtd_planej": 15000,
   "qtd_boas": 9689,
+  "horas_necessarias": 13.278,
   "qtd_percentual": 0.646
  },
  {
@@ -2433,6 +2584,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 1430,
   "qtd_boas": 0,
+  "horas_necessarias": 11.532,
   "qtd_percentual": 0
  },
  {
@@ -2449,6 +2601,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 8000,
   "qtd_boas": 1944,
+  "horas_necessarias": 43.257,
   "qtd_percentual": 0.243
  },
  {
@@ -2465,6 +2618,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 10.417,
   "qtd_percentual": 0
  },
  {
@@ -2481,6 +2635,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -2498,6 +2653,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 4106,
   "qtd_boas": 2989,
+  "horas_necessarias": 2.069,
   "qtd_percentual": 0.728
  },
  {
@@ -2514,6 +2670,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 4000,
   "qtd_boas": 2848,
+  "horas_necessarias": 6.436,
   "qtd_percentual": 0.712
  },
  {
@@ -2530,6 +2687,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 72,
   "qtd_boas": 72,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -2546,6 +2704,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 5,
   "qtd_percentual": 0
  },
  {
@@ -2562,6 +2721,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 5,
   "qtd_percentual": 0
  },
  {
@@ -2578,6 +2738,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.348,
   "qtd_percentual": 0
  },
  {
@@ -2594,6 +2755,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 400,
   "qtd_boas": 0,
+  "horas_necessarias": 3.125,
   "qtd_percentual": 0
  },
  {
@@ -2610,6 +2772,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.412,
   "qtd_percentual": 0
  },
  {
@@ -2626,6 +2789,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -2642,6 +2806,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 97,
+  "horas_necessarias": 26.217,
   "qtd_percentual": 0.139
  },
  {
@@ -2658,6 +2823,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 97,
+  "horas_necessarias": 26.217,
   "qtd_percentual": 0.139
  },
  {
@@ -2674,6 +2840,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 400,
   "qtd_boas": 400,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -2690,6 +2857,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.667,
   "qtd_percentual": 0
  },
  {
@@ -2706,6 +2874,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 5,
   "qtd_percentual": 0
  },
  {
@@ -2722,6 +2891,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.333,
   "qtd_percentual": 0
  },
  {
@@ -2738,6 +2908,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 3000,
   "qtd_boas": 2401,
+  "horas_necessarias": 29.95,
   "qtd_percentual": 0.8
  },
  {
@@ -2754,6 +2925,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
   "qtd_boas": 7005,
+  "horas_necessarias": 224.875,
   "qtd_percentual": 0.438
  },
  {
@@ -2770,6 +2942,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 350,
   "qtd_boas": 0,
+  "horas_necessarias": 1.522,
   "qtd_percentual": 0
  },
  {
@@ -2786,6 +2959,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 9305,
   "qtd_boas": 0,
+  "horas_necessarias": 2.326,
   "qtd_percentual": 0
  },
  {
@@ -2802,6 +2976,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -2818,6 +2993,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
   "qtd_boas": 8159,
+  "horas_necessarias": 201.051,
   "qtd_percentual": 0.51
  },
  {
@@ -2834,6 +3010,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
   "qtd_boas": 7497,
+  "horas_necessarias": 223.763,
   "qtd_percentual": 0.469
  },
  {
@@ -2850,6 +3027,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.947,
   "qtd_percentual": 0
  },
  {
@@ -2866,6 +3044,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.673,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -2883,6 +3062,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.673,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -2900,6 +3080,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4495,
   "qtd_boas": 4481,
+  "horas_necessarias": 0.01,
   "qtd_percentual": 0.997
  },
  {
@@ -2916,6 +3097,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 660,
+  "horas_necessarias": 3.524,
   "qtd_percentual": 0.471
  },
  {
@@ -2932,6 +3114,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 9.524,
   "qtd_percentual": 0
  },
  {
@@ -2948,6 +3131,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 800,
   "qtd_boas": 507,
+  "horas_necessarias": 3.488,
   "qtd_percentual": 0.634
  },
  {
@@ -2964,6 +3148,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 12.069,
   "qtd_percentual": 0
  },
  {
@@ -2980,6 +3165,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 6199,
   "qtd_boas": 0,
+  "horas_necessarias": 19.372,
   "qtd_percentual": 0
  },
  {
@@ -2996,6 +3182,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 58949,
   "qtd_boas": 32132,
+  "horas_necessarias": 4.876,
   "qtd_percentual": 0.545
  },
  {
@@ -3012,6 +3199,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 1761,
   "qtd_boas": 0,
+  "horas_necessarias": 7.044,
   "qtd_percentual": 0
  },
  {
@@ -3028,6 +3216,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 6000,
   "qtd_boas": 1510,
+  "horas_necessarias": 17.608,
   "qtd_percentual": 0.252
  },
  {
@@ -3044,6 +3233,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.333,
   "qtd_percentual": 0
  },
  {
@@ -3060,6 +3250,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 170,
   "qtd_boas": 0,
+  "horas_necessarias": 1.977,
   "qtd_percentual": 0
  },
  {
@@ -3076,6 +3267,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 170,
   "qtd_boas": 0,
+  "horas_necessarias": 1.977,
   "qtd_percentual": 0
  },
  {
@@ -3092,6 +3284,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 200,
   "qtd_boas": 0,
+  "horas_necessarias": 0.444,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -3109,6 +3302,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 10.714,
   "qtd_percentual": 0
  },
  {
@@ -3125,6 +3319,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 2336,
   "qtd_boas": 0,
+  "horas_necessarias": 6.489,
   "qtd_percentual": 0
  },
  {
@@ -3141,6 +3336,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.201,
   "qtd_percentual": 0
  },
  {
@@ -3157,6 +3353,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 9000,
   "qtd_boas": 8151,
+  "horas_necessarias": 21.225,
   "qtd_percentual": 0.906
  },
  {
@@ -3173,6 +3370,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 16000,
   "qtd_boas": 7280,
+  "horas_necessarias": 249.143,
   "qtd_percentual": 0.455
  },
  {
@@ -3189,6 +3387,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
   "qtd_boas": 3863,
+  "horas_necessarias": 404.567,
   "qtd_percentual": 0.241
  },
  {
@@ -3205,6 +3404,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
   "qtd_boas": 3863,
+  "horas_necessarias": 404.567,
   "qtd_percentual": 0.241
  },
  {
@@ -3221,6 +3421,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 9000,
   "qtd_boas": 8179,
+  "horas_necessarias": 20.525,
   "qtd_percentual": 0.909
  },
  {
@@ -3237,6 +3438,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 998,
+  "horas_necessarias": 0.024,
   "qtd_percentual": 0.998
  },
  {
@@ -3253,6 +3455,7 @@
   "operacao": "050 - REPASSAR FURO ESCAR.E ROSQUEAR",
   "qtd_planej": 3000,
   "qtd_boas": 1925,
+  "horas_necessarias": 3.359,
   "qtd_percentual": 0.642
  },
  {
@@ -3269,6 +3472,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.856,
   "qtd_percentual": 0
  },
  {
@@ -3285,6 +3489,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 2000,
   "qtd_boas": 512,
+  "horas_necessarias": 22.892,
   "qtd_percentual": 0.256
  },
  {
@@ -3301,6 +3506,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.785,
   "qtd_percentual": 0
  },
  {
@@ -3317,6 +3523,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 7499,
   "qtd_boas": 0,
+  "horas_necessarias": 23.434,
   "qtd_percentual": 0
  },
  {
@@ -3333,6 +3540,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 5000,
   "qtd_boas": 4005,
+  "horas_necessarias": 3.98,
   "qtd_percentual": 0.801
  },
  {
@@ -3349,6 +3557,7 @@
   "operacao": "113 - SEPARAR E EMBALAR",
   "qtd_planej": 1400,
   "qtd_boas": 1400,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -3365,6 +3574,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 5000,
   "qtd_boas": 4219,
+  "horas_necessarias": 3.124,
   "qtd_percentual": 0.844
  },
  {
@@ -3381,6 +3591,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 287,
   "qtd_boas": 0,
+  "horas_necessarias": 1.367,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -3398,6 +3609,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 12.121,
   "qtd_percentual": 0
  },
  {
@@ -3414,6 +3626,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.143,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -3431,6 +3644,7 @@
   "operacao": "200 - RETRABALHAR",
   "qtd_planej": 524,
   "qtd_boas": 0,
+  "horas_necessarias": 2.556,
   "qtd_percentual": 0
  },
  {
@@ -3447,6 +3661,7 @@
   "operacao": "039 - TAMBOREAR",
   "qtd_planej": 524,
   "qtd_boas": 0,
+  "horas_necessarias": 2.015,
   "qtd_percentual": 0
  },
  {
@@ -3463,6 +3678,7 @@
   "operacao": "054 - MONTAR SCJ. MANUALMENTE",
   "qtd_planej": 524,
   "qtd_boas": 0,
+  "horas_necessarias": 2.183,
   "qtd_percentual": 0
  },
  {
@@ -3479,6 +3695,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 216,
   "qtd_boas": 150,
+  "horas_necessarias": 2.444,
   "qtd_percentual": 0.694
  },
  {
@@ -3495,6 +3712,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 462,
+  "horas_necessarias": 9.135,
   "qtd_percentual": 0.578
  },
  {
@@ -3511,6 +3729,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 400,
   "qtd_boas": 0,
+  "horas_necessarias": 1.481,
   "qtd_percentual": 0
  },
  {
@@ -3527,6 +3746,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1500,
   "qtd_boas": 1,
+  "horas_necessarias": 5.064,
   "qtd_percentual": 0.001
  },
  {
@@ -3543,6 +3763,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2486,
   "qtd_boas": 0,
+  "horas_necessarias": 9.04,
   "qtd_percentual": 0
  },
  {
@@ -3559,6 +3780,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2486,
   "qtd_boas": 0,
+  "horas_necessarias": 9.04,
   "qtd_percentual": 0
  },
  {
@@ -3575,6 +3797,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2247,
   "qtd_boas": 0,
+  "horas_necessarias": 3.745,
   "qtd_percentual": 0
  },
  {
@@ -3591,6 +3814,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 5000,
   "qtd_boas": 3352,
+  "horas_necessarias": 5.663,
   "qtd_percentual": 0.67
  },
  {
@@ -3607,6 +3831,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 5000,
   "qtd_boas": 3352,
+  "horas_necessarias": 5.663,
   "qtd_percentual": 0.67
  },
  {
@@ -3623,6 +3848,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 3047,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.016
  },
  {
@@ -3639,6 +3865,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 18478,
   "qtd_boas": 0,
+  "horas_necessarias": 5.8,
   "qtd_percentual": 0
  },
  {
@@ -3655,6 +3882,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6532,
   "qtd_boas": 0,
+  "horas_necessarias": 5.443,
   "qtd_percentual": 0
  },
  {
@@ -3671,6 +3899,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.595,
   "qtd_percentual": 0
  },
  {
@@ -3687,6 +3916,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 0,
+  "horas_necessarias": 22.581,
   "qtd_percentual": 0
  },
  {
@@ -3703,6 +3933,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 621,
   "qtd_boas": 0,
+  "horas_necessarias": 2.07,
   "qtd_percentual": 0
  },
  {
@@ -3719,6 +3950,7 @@
   "operacao": "031 - ROSQUEAR",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.628,
   "qtd_percentual": 0
  },
  {
@@ -3735,6 +3967,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 3.125,
   "qtd_percentual": 0
  },
  {
@@ -3751,6 +3984,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.278,
   "qtd_percentual": 0
  },
  {
@@ -3767,6 +4001,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.278,
   "qtd_percentual": 0
  },
  {
@@ -3783,6 +4018,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.489,
   "qtd_percentual": 0
  },
  {
@@ -3799,6 +4035,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2800,
   "qtd_boas": 0,
+  "horas_necessarias": 2.059,
   "qtd_percentual": 0
  },
  {
@@ -3815,6 +4052,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.085,
   "qtd_percentual": 0
  },
  {
@@ -3831,6 +4069,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.762,
   "qtd_percentual": 0
  },
  {
@@ -3847,6 +4086,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -3863,6 +4103,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2640,
   "qtd_boas": 0,
+  "horas_necessarias": 1.404,
   "qtd_percentual": 0
  },
  {
@@ -3879,6 +4120,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 7,
   "qtd_percentual": 0
  },
  {
@@ -3895,6 +4137,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 15.909,
   "qtd_percentual": 0
  },
  {
@@ -3911,6 +4154,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.621,
   "qtd_percentual": 0
  },
  {
@@ -3927,6 +4171,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3303,
   "qtd_boas": 0,
+  "horas_necessarias": 2.232,
   "qtd_percentual": 0
  },
  {
@@ -3943,6 +4188,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -3959,6 +4205,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10483,
   "qtd_boas": 0,
+  "horas_necessarias": 4.831,
   "qtd_percentual": 0
  },
  {
@@ -3975,6 +4222,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.043,
   "qtd_percentual": 0
  },
  {
@@ -3991,6 +4239,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 5000,
   "qtd_boas": 1498,
+  "horas_necessarias": 9.865,
   "qtd_percentual": 0.3
  },
  {
@@ -4007,6 +4256,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4600,
   "qtd_boas": 3690,
+  "horas_necessarias": 3.25,
   "qtd_percentual": 0.802
  },
  {
@@ -4023,6 +4273,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1250,
   "qtd_boas": 450,
+  "horas_necessarias": 3.81,
   "qtd_percentual": 0.36
  },
  {
@@ -4039,6 +4290,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.154,
   "qtd_percentual": 0
  },
  {
@@ -4055,6 +4307,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 2096,
   "qtd_boas": 1099,
+  "horas_necessarias": 3.561,
   "qtd_percentual": 0.524
  },
  {
@@ -4071,6 +4324,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 10,
   "qtd_percentual": 0
  },
  {
@@ -4087,6 +4341,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 450,
   "qtd_boas": 450,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -4103,6 +4358,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.824,
   "qtd_percentual": 0
  },
  {
@@ -4119,6 +4375,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1474,
   "qtd_boas": 0,
+  "horas_necessarias": 6.142,
   "qtd_percentual": 0
  },
  {
@@ -4135,6 +4392,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3240,
   "qtd_boas": 0,
+  "horas_necessarias": 13.5,
   "qtd_percentual": 0
  },
  {
@@ -4151,6 +4409,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1998,
   "qtd_boas": 0,
+  "horas_necessarias": 8.325,
   "qtd_percentual": 0
  },
  {
@@ -4167,6 +4426,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.037,
   "qtd_percentual": 0
  },
  {
@@ -4183,6 +4443,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 110,
   "qtd_boas": 0,
+  "horas_necessarias": 0.647,
   "qtd_percentual": 0
  },
  {
@@ -4199,6 +4460,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 280,
   "qtd_boas": 280,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -4215,6 +4477,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 1660,
   "qtd_boas": 0,
+  "horas_necessarias": 1.729,
   "qtd_percentual": 0
  },
  {
@@ -4231,6 +4494,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 1660,
   "qtd_boas": 0,
+  "horas_necessarias": 1.729,
   "qtd_percentual": 0
  },
  {
@@ -4247,6 +4511,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 7500,
   "qtd_boas": 0,
+  "horas_necessarias": 4.286,
   "qtd_percentual": 0
  },
  {
@@ -4263,6 +4528,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -4279,6 +4545,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 273,
+  "horas_necessarias": 10.675,
   "qtd_percentual": 0.39
  },
  {
@@ -4295,6 +4562,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.897,
   "qtd_percentual": 0
  },
  {
@@ -4311,6 +4579,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 5000,
   "qtd_boas": 2500,
+  "horas_necessarias": 7.042,
   "qtd_percentual": 0.5,
   "obs_alerta": "URGENTE"
  },
@@ -4328,6 +4597,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -4344,6 +4614,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 1000,
   "qtd_boas": 990,
+  "horas_necessarias": 0.059,
   "qtd_percentual": 0.99
  },
  {
@@ -4360,6 +4631,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
@@ -4376,6 +4648,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 14.286,
   "qtd_percentual": 0
  },
  {
@@ -4392,6 +4665,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 984,
   "qtd_boas": 0,
+  "horas_necessarias": 7.029,
   "qtd_percentual": 0
  },
  {
@@ -4408,6 +4682,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 4000,
   "qtd_boas": 1819,
+  "horas_necessarias": 5.346,
   "qtd_percentual": 0.455
  },
  {
@@ -4424,6 +4699,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -4440,6 +4716,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.661,
   "qtd_percentual": 0
  },
  {
@@ -4456,6 +4733,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 344,
+  "horas_necessarias": 8.158,
   "qtd_percentual": 0.172
  },
  {
@@ -4472,6 +4750,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1122,
   "qtd_boas": 0,
+  "horas_necessarias": 3.667,
   "qtd_percentual": 0
  },
  {
@@ -4488,6 +4767,7 @@
   "operacao": "069 - SOLDAR PONTOS",
   "qtd_planej": 540,
   "qtd_boas": 512,
+  "horas_necessarias": 3.111,
   "qtd_percentual": 0.948
  },
  {
@@ -4504,6 +4784,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 10.714,
   "qtd_percentual": 0
  },
  {
@@ -4520,6 +4801,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 10,
   "qtd_percentual": 0
  },
  {
@@ -4536,6 +4818,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 8500,
   "qtd_boas": 0,
+  "horas_necessarias": 5.06,
   "qtd_percentual": 0
  },
  {
@@ -4552,6 +4835,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
   "qtd_boas": 720,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -4568,6 +4852,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 14000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.75,
   "qtd_percentual": 0
  },
  {
@@ -4584,6 +4869,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 14000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.735,
   "qtd_percentual": 0
  },
  {
@@ -4600,6 +4886,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6300,
   "qtd_boas": 4440,
+  "horas_necessarias": 5.391,
   "qtd_percentual": 0.705
  },
  {
@@ -4616,6 +4903,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 17.391,
   "qtd_percentual": 0
  },
  {
@@ -4632,6 +4920,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 5000,
   "qtd_boas": 4999,
+  "horas_necessarias": 0.003,
   "qtd_percentual": 1
  },
  {
@@ -4648,6 +4937,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.651,
   "qtd_percentual": 0
  },
  {
@@ -4664,6 +4954,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.105,
   "qtd_percentual": 0
  },
  {
@@ -4680,6 +4971,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 300,
+  "horas_necessarias": 8,
   "qtd_percentual": 0.429
  },
  {
@@ -4696,6 +4988,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 300,
+  "horas_necessarias": 8,
   "qtd_percentual": 0.429
  },
  {
@@ -4712,6 +5005,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 350,
   "qtd_boas": 0,
+  "horas_necessarias": 1.522,
   "qtd_percentual": 0
  },
  {
@@ -4728,6 +5022,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 3641,
+  "horas_necessarias": 1.795,
   "qtd_percentual": 0.91
  },
  {
@@ -4744,6 +5039,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.138,
   "qtd_percentual": 0
  },
  {
@@ -4760,6 +5056,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -4776,6 +5073,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -4792,6 +5090,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2104,
   "qtd_boas": 1505,
+  "horas_necessarias": 2.723,
   "qtd_percentual": 0.715
  },
  {
@@ -4808,6 +5107,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2104.6,
   "qtd_boas": 1505,
+  "horas_necessarias": 2.725,
   "qtd_percentual": 0.715
  },
  {
@@ -4824,6 +5124,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 4875,
   "qtd_boas": 0,
+  "horas_necessarias": 11.08,
   "qtd_percentual": 0
  },
  {
@@ -4840,6 +5141,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -4856,6 +5158,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2902,
   "qtd_boas": 1004,
+  "horas_necessarias": 3.65,
   "qtd_percentual": 0.346
  },
  {
@@ -4872,6 +5175,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2902,
   "qtd_boas": 1004,
+  "horas_necessarias": 3.65,
   "qtd_percentual": 0.346
  },
  {
@@ -4888,6 +5192,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0
  },
  {
@@ -4904,6 +5209,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2659,
   "qtd_boas": 786,
+  "horas_necessarias": 3.286,
   "qtd_percentual": 0.296
  },
  {
@@ -4920,6 +5226,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 7000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.092,
   "qtd_percentual": 0
  },
  {
@@ -4936,6 +5243,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1746,
   "qtd_boas": 1267,
+  "horas_necessarias": 1.768,
   "qtd_percentual": 0.726
  },
  {
@@ -4952,6 +5260,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.651,
   "qtd_percentual": 0
  },
  {
@@ -4968,6 +5277,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 3.784,
   "qtd_percentual": 0
  },
  {
@@ -4984,6 +5294,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 4.516,
   "qtd_percentual": 0
  },
  {
@@ -5000,6 +5311,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1600,
   "qtd_boas": 0,
+  "horas_necessarias": 7.273,
   "qtd_percentual": 0
  },
  {
@@ -5016,6 +5328,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 16.667,
   "qtd_percentual": 0
  },
  {
@@ -5032,6 +5345,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 1578,
+  "horas_necessarias": 3.555,
   "qtd_percentual": 0.526
  },
  {
@@ -5048,6 +5362,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 23.81,
   "qtd_percentual": 0
  },
  {
@@ -5064,6 +5379,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 6000,
   "qtd_boas": 2638,
+  "horas_necessarias": 7.819,
   "qtd_percentual": 0.44
  },
  {
@@ -5080,6 +5396,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 6000,
   "qtd_boas": 2310,
+  "horas_necessarias": 11.903,
   "qtd_percentual": 0.385
  },
  {
@@ -5096,6 +5413,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -5112,6 +5430,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 4,
   "qtd_percentual": 0
  },
  {
@@ -5128,6 +5447,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2104,
   "qtd_boas": 0,
+  "horas_necessarias": 10.019,
   "qtd_percentual": 0
  },
  {
@@ -5144,6 +5464,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1.695,
   "qtd_percentual": 0
  },
  {
@@ -5160,6 +5481,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 14.286,
   "qtd_percentual": 0
  },
  {
@@ -5176,6 +5498,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 18.75,
   "qtd_percentual": 0
  },
  {
@@ -5192,6 +5515,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 1.8,
   "qtd_percentual": 0
  },
  {
@@ -5208,6 +5532,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.882,
   "qtd_percentual": 0
  },
  {
@@ -5224,6 +5549,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.396,
   "qtd_percentual": 0
  },
  {
@@ -5240,6 +5566,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.111,
   "qtd_percentual": 0
  },
  {
@@ -5255,8 +5582,9 @@
   "cod_item": 870000319412,
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 600,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 597,
+  "horas_necessarias": 0.012,
+  "qtd_percentual": 0.995
  },
  {
   "cod_empresa": "01",
@@ -5272,6 +5600,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0
  },
  {
@@ -5288,6 +5617,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 36.364,
   "qtd_percentual": 0
  },
  {
@@ -5304,6 +5634,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 250,
   "qtd_boas": 251,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.004
  },
  {
@@ -5320,6 +5651,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 1081,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.081
  },
  {
@@ -5336,6 +5668,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 2273,
+  "horas_necessarias": 0.811,
   "qtd_percentual": 0.909
  },
  {
@@ -5352,6 +5685,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 12,
   "qtd_percentual": 0
  },
  {
@@ -5368,6 +5702,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 0.905,
   "qtd_percentual": 0
  },
  {
@@ -5384,6 +5719,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -5400,6 +5736,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -5416,6 +5753,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -5432,6 +5770,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -5448,6 +5787,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.41,
   "qtd_percentual": 0
  },
  {
@@ -5464,6 +5804,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.396,
   "qtd_percentual": 0
  },
  {
@@ -5480,6 +5821,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 540,
   "qtd_boas": 511,
+  "horas_necessarias": 3.222,
   "qtd_percentual": 0.946
  },
  {
@@ -5496,6 +5838,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 5729,
   "qtd_boas": 0,
+  "horas_necessarias": 3.7199999999999998,
   "qtd_percentual": 0
  },
  {
@@ -5512,6 +5855,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 1600,
   "qtd_boas": 1246,
+  "horas_necessarias": 5.057,
   "qtd_percentual": 0.779
  },
  {
@@ -5528,6 +5872,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.824,
   "qtd_percentual": 0
  },
  {
@@ -5544,6 +5889,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -5560,6 +5906,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -5576,6 +5923,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2104,
   "qtd_boas": 0,
+  "horas_necessarias": 10.019,
   "qtd_percentual": 0
  },
  {
@@ -5592,6 +5940,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4502,
   "qtd_boas": 2806,
+  "horas_necessarias": 2.217,
   "qtd_percentual": 0.623
  },
  {
@@ -5608,6 +5957,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 10.39,
   "qtd_percentual": 0
  },
  {
@@ -5624,6 +5974,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 3333,
   "qtd_boas": 0,
+  "horas_necessarias": 7.246,
   "qtd_percentual": 0
  },
  {
@@ -5640,6 +5991,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -5656,6 +6008,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.752,
   "qtd_percentual": 0
  },
  {
@@ -5672,6 +6025,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6200,
   "qtd_boas": 0,
+  "horas_necessarias": 3.875,
   "qtd_percentual": 0
  },
  {
@@ -5688,6 +6042,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 4,
   "qtd_percentual": 0
  },
  {
@@ -5704,6 +6059,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.154,
   "qtd_percentual": 0
  },
  {
@@ -5720,6 +6076,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 4365,
   "qtd_boas": 0,
+  "horas_necessarias": 15.052,
   "qtd_percentual": 0
  },
  {
@@ -5736,6 +6093,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 5935,
   "qtd_boas": 0,
+  "horas_necessarias": 20.466,
   "qtd_percentual": 0
  },
  {
@@ -5752,6 +6110,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.494,
   "qtd_percentual": 0
  },
  {
@@ -5768,6 +6127,7 @@
   "operacao": "085 - REBITAR",
   "qtd_planej": 12000,
   "qtd_boas": 11996,
+  "horas_necessarias": 0.01,
   "qtd_percentual": 1
  },
  {
@@ -5784,6 +6144,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 12,
   "qtd_percentual": 0
  },
  {
@@ -5800,6 +6161,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 10.417,
   "qtd_percentual": 0
  },
  {
@@ -5816,6 +6178,7 @@
   "operacao": "085 - REBITAR",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 21.429,
   "qtd_percentual": 0
  },
  {
@@ -5832,6 +6195,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 4000,
   "qtd_boas": 240,
+  "horas_necessarias": 107.429,
   "qtd_percentual": 0.06
  },
  {
@@ -5848,6 +6212,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 676,
+  "horas_necessarias": 3.875,
   "qtd_percentual": 0.845
  },
  {
@@ -5864,6 +6229,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 676,
+  "horas_necessarias": 3.875,
   "qtd_percentual": 0.845
  },
  {
@@ -5880,6 +6246,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 7000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.65,
   "qtd_percentual": 0
  },
  {
@@ -5896,6 +6263,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.837,
   "qtd_percentual": 0
  },
  {
@@ -5912,6 +6280,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.824,
   "qtd_percentual": 0
  },
  {
@@ -5928,6 +6297,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1.695,
   "qtd_percentual": 0
  },
  {
@@ -5944,6 +6314,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 220,
   "qtd_boas": 0,
+  "horas_necessarias": 0.557,
   "qtd_percentual": 0
  },
  {
@@ -5960,6 +6331,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 60000,
   "qtd_boas": 0,
+  "horas_necessarias": 20.134,
   "qtd_percentual": 0
  },
  {
@@ -5976,6 +6348,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 14.286,
   "qtd_percentual": 0
  },
  {
@@ -5992,6 +6365,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 540,
   "qtd_boas": 317,
+  "horas_necessarias": 24.778,
   "qtd_percentual": 0.587
  },
  {
@@ -6008,6 +6382,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.043,
   "qtd_percentual": 0
  },
  {
@@ -6024,6 +6399,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 280,
   "qtd_boas": 280,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -6040,6 +6416,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.541,
   "qtd_percentual": 0
  },
  {
@@ -6056,6 +6433,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1329,
   "qtd_boas": 0,
+  "horas_necessarias": 5.778,
   "qtd_percentual": 0
  },
  {
@@ -6072,6 +6450,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 3990,
   "qtd_boas": 0,
+  "horas_necessarias": 10.5,
   "qtd_percentual": 0
  },
  {
@@ -6088,6 +6467,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 2282,
   "qtd_boas": 0,
+  "horas_necessarias": 8.15,
   "qtd_percentual": 0
  },
  {
@@ -6104,6 +6484,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.756,
   "qtd_percentual": 0
  },
  {
@@ -6120,6 +6501,7 @@
   "operacao": "024 - DOBRAR",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.877,
   "qtd_percentual": 0
  },
  {
@@ -6136,6 +6518,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 10,
   "qtd_percentual": 0
  },
  {
@@ -6152,6 +6535,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2252,
   "qtd_boas": 0,
+  "horas_necessarias": 3.753,
   "qtd_percentual": 0
  },
  {
@@ -6168,6 +6552,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.677,
   "qtd_percentual": 0
  },
  {
@@ -6184,6 +6569,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 10000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.797,
   "qtd_percentual": 0
  },
  {
@@ -6200,6 +6586,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 200,
   "qtd_boas": 180,
+  "horas_necessarias": 0.074,
   "qtd_percentual": 0.9
  },
  {
@@ -6216,6 +6603,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 25,
   "qtd_percentual": 0
  },
  {
@@ -6232,6 +6620,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 740,
+  "horas_necessarias": 4.39,
   "qtd_percentual": 0.37
  },
  {
@@ -6248,6 +6637,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.905,
   "qtd_percentual": 0
  },
  {
@@ -6264,6 +6654,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.089,
   "qtd_percentual": 0
  },
  {
@@ -6280,6 +6671,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.089,
   "qtd_percentual": 0
  },
  {
@@ -6296,6 +6688,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.371,
   "qtd_percentual": 0
  },
  {
@@ -6312,6 +6705,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.632,
   "qtd_percentual": 0
  },
  {
@@ -6328,6 +6722,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 3100,
   "qtd_boas": 1080,
+  "horas_necessarias": 11.222,
   "qtd_percentual": 0.348
  },
  {
@@ -6344,6 +6739,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 908,
   "qtd_boas": 339,
+  "horas_necessarias": 9.177,
   "qtd_percentual": 0.373
  },
  {
@@ -6360,6 +6756,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
   "qtd_boas": 424,
+  "horas_necessarias": 29.6,
   "qtd_percentual": 0.589
  },
  {
@@ -6375,8 +6772,9 @@
   "cod_item": 870000319400,
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
-  "qtd_boas": 440,
-  "qtd_percentual": 0.611
+  "qtd_boas": 448,
+  "horas_necessarias": 27.2,
+  "qtd_percentual": 0.622
  },
  {
   "cod_empresa": "01",
@@ -6392,6 +6790,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -6408,6 +6807,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 6105,
   "qtd_boas": 0,
+  "horas_necessarias": 34.106,
   "qtd_percentual": 0
  },
  {
@@ -6424,6 +6824,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.596,
   "qtd_percentual": 0
  },
  {
@@ -6440,6 +6841,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 4.615,
   "qtd_percentual": 0
  },
  {
@@ -6456,6 +6858,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 19.231,
   "qtd_percentual": 0
  },
  {
@@ -6472,6 +6875,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.444,
   "qtd_percentual": 0
  },
  {
@@ -6488,6 +6892,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 600,
   "qtd_boas": 600,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -6504,6 +6909,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -6520,6 +6926,7 @@
   "operacao": "024 - DOBRAR",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 18.75,
   "qtd_percentual": 0
  },
  {
@@ -6536,6 +6943,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 950,
   "qtd_boas": 935,
+  "horas_necessarias": 0.119,
   "qtd_percentual": 0.984
  },
  {
@@ -6552,6 +6960,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 1.984,
   "qtd_percentual": 0
  },
  {
@@ -6568,6 +6977,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 906,
+  "horas_necessarias": 8.054,
   "qtd_percentual": 0.302
  },
  {
@@ -6584,6 +6994,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -6600,6 +7011,7 @@
   "operacao": "044 - SOLDAR BUCHA",
   "qtd_planej": 500,
   "qtd_boas": 493,
+  "horas_necessarias": 0.02,
   "qtd_percentual": 0.986
  },
  {
@@ -6616,6 +7028,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 15.686,
   "qtd_percentual": 0
  },
  {
@@ -6632,6 +7045,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 0.903,
   "qtd_percentual": 0
  },
  {
@@ -6647,8 +7061,9 @@
   "cod_item": 870000321900,
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 800,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
+  "qtd_boas": 509,
+  "horas_necessarias": 1.213,
+  "qtd_percentual": 0.636
  },
  {
   "cod_empresa": "01",
@@ -6664,6 +7079,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 2966,
+  "horas_necessarias": 0.06,
   "qtd_percentual": 0.989
  },
  {
@@ -6680,6 +7096,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 720,
   "qtd_boas": 0,
+  "horas_necessarias": 1.714,
   "qtd_percentual": 0
  },
  {
@@ -6696,6 +7113,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6250,
   "qtd_boas": 0,
+  "horas_necessarias": 5.208,
   "qtd_percentual": 0
  },
  {
@@ -6712,6 +7130,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6250,
   "qtd_boas": 0,
+  "horas_necessarias": 5.208,
   "qtd_percentual": 0
  },
  {
@@ -6728,6 +7147,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1873,
   "qtd_boas": 0,
+  "horas_necessarias": 2.754,
   "qtd_percentual": 0
  },
  {
@@ -6744,6 +7164,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1873,
   "qtd_boas": 0,
+  "horas_necessarias": 2.754,
   "qtd_percentual": 0
  },
  {
@@ -6760,6 +7181,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -6776,6 +7198,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -6792,6 +7215,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 2150,
   "qtd_boas": 0,
+  "horas_necessarias": 43,
   "qtd_percentual": 0
  },
  {
@@ -6808,6 +7232,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.412,
   "qtd_percentual": 0
  },
  {
@@ -6824,6 +7249,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.636,
   "qtd_percentual": 0
  },
  {
@@ -6840,6 +7266,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 5.714,
   "qtd_percentual": 0
  },
  {
@@ -6855,8 +7282,9 @@
   "cod_item": 870000318600,
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1000,
-  "qtd_boas": 820,
-  "qtd_percentual": 0.82
+  "qtd_boas": 984,
+  "horas_necessarias": 0.073,
+  "qtd_percentual": 0.984
  },
  {
   "cod_empresa": "01",
@@ -6872,6 +7300,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 6000,
   "qtd_boas": 2996,
+  "horas_necessarias": 9.628,
   "qtd_percentual": 0.499
  },
  {
@@ -6888,6 +7317,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1200,
   "qtd_boas": 1014,
+  "horas_necessarias": 0.775,
   "qtd_percentual": 0.845
  },
  {
@@ -6904,6 +7334,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -6920,6 +7351,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.429,
   "qtd_percentual": 0
  },
  {
@@ -6936,6 +7368,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.429,
   "qtd_percentual": 0
  },
  {
@@ -6952,6 +7385,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -6969,6 +7403,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 7000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.65,
   "qtd_percentual": 0
  },
  {
@@ -6985,6 +7420,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4485,
   "qtd_boas": 0,
+  "horas_necessarias": 7.475,
   "qtd_percentual": 0
  },
  {
@@ -7001,6 +7437,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4485,
   "qtd_boas": 0,
+  "horas_necessarias": 7.475,
   "qtd_percentual": 0
  },
  {
@@ -7017,6 +7454,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2800,
   "qtd_boas": 0,
+  "horas_necessarias": 4.667,
   "qtd_percentual": 0
  },
  {
@@ -7033,6 +7471,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2800,
   "qtd_boas": 0,
+  "horas_necessarias": 4.667,
   "qtd_percentual": 0
  },
  {
@@ -7049,6 +7488,7 @@
   "operacao": "113 - SEPARAR E EMBALAR",
   "qtd_planej": 360,
   "qtd_boas": 80,
+  "horas_necessarias": 2.154,
   "qtd_percentual": 0.222
  },
  {
@@ -7065,6 +7505,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 1500,
   "qtd_boas": 666,
+  "horas_necessarias": 7.381,
   "qtd_percentual": 0.444
  },
  {
@@ -7080,8 +7521,9 @@
   "cod_item": 870000321100,
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 3250,
-  "qtd_boas": 325,
-  "qtd_percentual": 0.1
+  "qtd_boas": 485,
+  "horas_necessarias": 15.361,
+  "qtd_percentual": 0.149
  },
  {
   "cod_empresa": "01",
@@ -7097,6 +7539,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -7113,6 +7556,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 5.714,
   "qtd_percentual": 0
  },
  {
@@ -7129,6 +7573,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -7145,6 +7590,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 5,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7162,6 +7608,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 5,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7179,6 +7626,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 540,
   "qtd_boas": 336,
+  "horas_necessarias": 22.667,
   "qtd_percentual": 0.622
  },
  {
@@ -7195,6 +7643,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 287,
   "qtd_boas": 0,
+  "horas_necessarias": 1.104,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7212,6 +7661,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.167,
   "qtd_percentual": 0
  },
  {
@@ -7228,6 +7678,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.467,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7245,6 +7696,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.467,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7262,6 +7714,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 11.429,
   "qtd_percentual": 0
  },
  {
@@ -7278,6 +7731,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 11.429,
   "qtd_percentual": 0
  },
  {
@@ -7294,6 +7748,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2600,
   "qtd_boas": 0,
+  "horas_necessarias": 7.027,
   "qtd_percentual": 0
  },
  {
@@ -7310,6 +7765,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7327,6 +7783,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7344,6 +7801,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1600,
   "qtd_boas": 0,
+  "horas_necessarias": 4.103,
   "qtd_percentual": 0
  },
  {
@@ -7360,6 +7818,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.857,
   "qtd_percentual": 0
  },
  {
@@ -7376,6 +7835,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 200,
   "qtd_boas": 0,
+  "horas_necessarias": 0.444,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7393,6 +7853,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 1000,
   "qtd_boas": 1009,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.009
  },
  {
@@ -7409,6 +7870,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7426,6 +7888,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7443,6 +7906,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7460,6 +7924,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.5,
   "qtd_percentual": 0
  },
  {
@@ -7476,6 +7941,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.5,
   "qtd_percentual": 0
  },
  {
@@ -7492,6 +7958,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 12.308,
   "qtd_percentual": 0
  },
  {
@@ -7508,6 +7975,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -7524,6 +7992,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -7540,6 +8009,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 1253,
+  "horas_necessarias": 2.576,
   "qtd_percentual": 0.627
  },
  {
@@ -7556,6 +8026,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 1000,
   "qtd_boas": 1417,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.417
  },
  {
@@ -7572,6 +8043,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 206,
+  "horas_necessarias": 17.643,
   "qtd_percentual": 0.294
  },
  {
@@ -7588,6 +8060,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 205,
+  "horas_necessarias": 17.679,
   "qtd_percentual": 0.293
  },
  {
@@ -7604,6 +8077,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 170,
   "qtd_boas": 0,
+  "horas_necessarias": 1.977,
   "qtd_percentual": 0
  },
  {
@@ -7620,6 +8094,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.524,
   "qtd_percentual": 0
  },
  {
@@ -7636,23 +8111,8 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.524,
   "qtd_percentual": 0
- },
- {
-  "cod_empresa": "12",
-  "alerta": 0,
-  "sequencia": "04",
-  "num_programa": 28587,
-  "data_programa": "09\/21\/2022 13:56",
-  "cod_equip": "SP-0469",
-  "num_ordem": 12187421,
-  "ies_situa": 4,
-  "cod_item_cliente": "519002640 LE",
-  "cod_item": 870000323903,
-  "operacao": "035 - SOLDAR PORCA",
-  "qtd_planej": 1000,
-  "qtd_boas": 999,
-  "qtd_percentual": 0.999
  },
  {
   "cod_empresa": "12",
@@ -7668,6 +8128,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 250,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
@@ -7684,6 +8145,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4300,
   "qtd_boas": 0,
+  "horas_necessarias": 16.226,
   "qtd_percentual": 0
  },
  {
@@ -7700,6 +8162,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 4300,
   "qtd_boas": 0,
+  "horas_necessarias": 16.226,
   "qtd_percentual": 0
  },
  {
@@ -7716,6 +8179,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.708,
   "qtd_percentual": 0
  },
  {
@@ -7732,6 +8196,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.846,
   "qtd_percentual": 0
  },
  {
@@ -7748,6 +8213,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.444,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7765,6 +8231,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 4.444,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7782,6 +8249,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 0.625,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7799,6 +8267,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 778,
   "qtd_boas": 0,
+  "horas_necessarias": 1.111,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7816,6 +8285,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 14400,
   "qtd_boas": 0,
+  "horas_necessarias": 8.081,
   "qtd_percentual": 0
  },
  {
@@ -7832,6 +8302,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.971,
   "qtd_percentual": 0
  },
  {
@@ -7848,6 +8319,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0,
   "obs_alerta": "PEÇAS NOVA G.M"
  },
@@ -7865,6 +8337,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -7881,6 +8354,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2800,
   "qtd_boas": 1441,
+  "horas_necessarias": 5.909,
   "qtd_percentual": 0.515
  },
  {
@@ -7897,6 +8371,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2800,
   "qtd_boas": 1419,
+  "horas_necessarias": 6.004,
   "qtd_percentual": 0.507
  },
  {
@@ -7913,6 +8388,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 2800,
   "qtd_boas": 1439,
+  "horas_necessarias": 4.537,
   "qtd_percentual": 0.514
  },
  {
@@ -7929,6 +8405,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 2250,
   "qtd_boas": 0,
+  "horas_necessarias": 12.5,
   "qtd_percentual": 0
  },
  {
@@ -7945,6 +8422,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 8690,
   "qtd_boas": 0,
+  "horas_necessarias": 4.828,
   "qtd_percentual": 0
  },
  {
@@ -7961,6 +8439,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 21007,
   "qtd_boas": 0,
+  "horas_necessarias": 12.357,
   "qtd_percentual": 0
  },
  {
@@ -7977,6 +8456,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 9.023,
   "qtd_percentual": 0
  },
  {
@@ -7993,6 +8473,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2229,
   "qtd_boas": 0,
+  "horas_necessarias": 7.332,
   "qtd_percentual": 0
  },
  {
@@ -8009,6 +8490,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.069,
   "qtd_percentual": 0
  },
  {
@@ -8025,6 +8507,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.069,
   "qtd_percentual": 0
  },
  {
@@ -8041,6 +8524,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4129,
   "qtd_boas": 1800,
+  "horas_necessarias": 1.606,
   "qtd_percentual": 0.436
  },
  {
@@ -8057,6 +8541,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4129,
   "qtd_boas": 1800,
+  "horas_necessarias": 1.606,
   "qtd_percentual": 0.436
  },
  {
@@ -8073,6 +8558,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 1430,
   "qtd_boas": 0,
+  "horas_necessarias": 8.512,
   "qtd_percentual": 0
  },
  {
@@ -8089,6 +8575,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 1448,
   "qtd_boas": 0,
+  "horas_necessarias": 20.111,
   "qtd_percentual": 0
  },
  {
@@ -8105,6 +8592,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 13528,
   "qtd_boas": 0,
+  "horas_necessarias": 8.455,
   "qtd_percentual": 0
  },
  {
@@ -8121,6 +8609,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.596,
   "qtd_percentual": 0
  },
  {
@@ -8137,6 +8626,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 220,
   "qtd_boas": 231,
+  "horas_necessarias": 0,
   "qtd_percentual": 1.05
  },
  {
@@ -8153,6 +8643,7 @@
   "operacao": "015 - RECORTAR",
   "qtd_planej": 220,
   "qtd_boas": 0,
+  "horas_necessarias": 0.733,
   "qtd_percentual": 0
  },
  {
@@ -8169,6 +8660,7 @@
   "operacao": "017 - FLANGEAR EXTRUDAR FURO E VINCA",
   "qtd_planej": 220,
   "qtd_boas": 0,
+  "horas_necessarias": 0.786,
   "qtd_percentual": 0
  },
  {
@@ -8185,6 +8677,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 16000,
   "qtd_boas": 8884,
+  "horas_necessarias": 59.3,
   "qtd_percentual": 0.555
  },
  {
@@ -8201,6 +8694,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.854,
   "qtd_percentual": 0
  },
  {
@@ -8217,6 +8711,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.556,
   "qtd_percentual": 0
  },
  {
@@ -8233,6 +8728,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.818,
   "qtd_percentual": 0
  },
  {
@@ -8249,6 +8745,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.5,
   "qtd_percentual": 0
  },
  {
@@ -8265,6 +8762,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 4,
   "qtd_percentual": 0
  },
  {
@@ -8281,6 +8779,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3687,
   "qtd_boas": 0,
+  "horas_necessarias": 9.218,
   "qtd_percentual": 0
  },
  {
@@ -8297,6 +8796,7 @@
   "operacao": "024 - DOBRAR",
   "qtd_planej": 4500,
   "qtd_boas": 0,
+  "horas_necessarias": 18.75,
   "qtd_percentual": 0
  },
  {
@@ -8313,6 +8813,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 430,
   "qtd_boas": 115,
+  "horas_necessarias": 1.944,
   "qtd_percentual": 0.267
  },
  {
@@ -8329,6 +8830,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 10000,
   "qtd_boas": 2500,
+  "horas_necessarias": 10.714,
   "qtd_percentual": 0.25
  },
  {
@@ -8345,6 +8847,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 4248,
   "qtd_boas": 0,
+  "horas_necessarias": 11.481,
   "qtd_percentual": 0
  },
  {
@@ -8361,6 +8864,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.667,
   "qtd_percentual": 0
  },
  {
@@ -8377,6 +8881,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 5997,
   "qtd_boas": 0,
+  "horas_necessarias": 2.999,
   "qtd_percentual": 0
  },
  {
@@ -8393,6 +8898,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 1041,
+  "horas_necessarias": 6.393,
   "qtd_percentual": 0.521
  },
  {
@@ -8409,6 +8915,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.937,
   "qtd_percentual": 0
  },
  {
@@ -8425,6 +8932,7 @@
   "operacao": "010 - ESTAMPAR EM 06 ESTAGIOS",
   "qtd_planej": 6500,
   "qtd_boas": 0,
+  "horas_necessarias": 25,
   "qtd_percentual": 0
  },
  {
@@ -8441,6 +8949,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 250,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0
  },
  {
@@ -8457,6 +8966,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.765,
   "qtd_percentual": 0
  },
  {
@@ -8473,6 +8983,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8489,6 +9000,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 900,
   "qtd_boas": 0,
+  "horas_necessarias": 26.471,
   "qtd_percentual": 0
  },
  {
@@ -8505,6 +9017,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 900,
   "qtd_boas": 0,
+  "horas_necessarias": 26.471,
   "qtd_percentual": 0
  },
  {
@@ -8521,6 +9034,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8537,6 +9051,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8553,6 +9068,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8569,6 +9085,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8585,6 +9102,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -8601,6 +9119,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.704,
   "qtd_percentual": 0
  },
  {
@@ -8617,6 +9136,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.704,
   "qtd_percentual": 0
  },
  {
@@ -8633,6 +9153,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
@@ -8649,6 +9170,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
@@ -8665,6 +9187,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 729,
   "qtd_boas": 189,
+  "horas_necessarias": 1.929,
   "qtd_percentual": 0.259
  },
  {
@@ -8681,6 +9204,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2373,
   "qtd_boas": 0,
+  "horas_necessarias": 2.304,
   "qtd_percentual": 0
  },
  {
@@ -8697,6 +9221,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 3641,
+  "horas_necessarias": 1.795,
   "qtd_percentual": 0.91
  },
  {
@@ -8713,6 +9238,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2600,
   "qtd_boas": 0,
+  "horas_necessarias": 11.304,
   "qtd_percentual": 0
  },
  {
@@ -8729,6 +9255,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 2600,
   "qtd_boas": 0,
+  "horas_necessarias": 11.304,
   "qtd_percentual": 0
  },
  {
@@ -8744,8 +9271,9 @@
   "cod_item": 870000329800,
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1000,
-  "qtd_boas": 326,
-  "qtd_percentual": 0.326
+  "qtd_boas": 486,
+  "horas_necessarias": 3.024,
+  "qtd_percentual": 0.486
  },
  {
   "cod_empresa": "12",
@@ -8761,6 +9289,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2943,
   "qtd_boas": 0,
+  "horas_necessarias": 8.409,
   "qtd_percentual": 0
  },
  {
@@ -8777,6 +9306,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 7,
   "qtd_percentual": 0
  },
  {
@@ -8793,6 +9323,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3500,
   "qtd_boas": 0,
+  "horas_necessarias": 15.909,
   "qtd_percentual": 0
  },
  {
@@ -8809,6 +9340,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 7,
   "qtd_percentual": 0
  },
  {
@@ -8825,6 +9357,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1400,
   "qtd_boas": 0,
+  "horas_necessarias": 7,
   "qtd_percentual": 0
  },
  {
@@ -8841,6 +9374,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 9363,
   "qtd_boas": 0,
+  "horas_necessarias": 7.803,
   "qtd_percentual": 0
  },
  {
@@ -8857,6 +9391,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 11953,
   "qtd_boas": 0,
+  "horas_necessarias": 6.641,
   "qtd_percentual": 0
  },
  {
@@ -8873,6 +9408,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 12000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.667,
   "qtd_percentual": 0
  },
  {
@@ -8889,6 +9425,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 2.824,
   "qtd_percentual": 0
  },
  {
@@ -8905,6 +9442,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 2.824,
   "qtd_percentual": 0
  },
  {
@@ -8921,6 +9459,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.636,
   "qtd_percentual": 0
  },
  {
@@ -8937,6 +9476,7 @@
   "operacao": "015 - RECORTAR",
   "qtd_planej": 2645,
   "qtd_boas": 0,
+  "horas_necessarias": 9.121,
   "qtd_percentual": 0
  },
  {
@@ -8953,6 +9493,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.837,
   "qtd_percentual": 0
  },
  {
@@ -8969,6 +9510,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 12.195,
   "qtd_percentual": 0
  },
  {
@@ -8985,6 +9527,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 170,
   "qtd_boas": 0,
+  "horas_necessarias": 1.977,
   "qtd_percentual": 0
  },
  {
@@ -9001,6 +9544,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1260,
   "qtd_boas": 0,
+  "horas_necessarias": 12.6,
   "qtd_percentual": 0
  },
  {
@@ -9017,6 +9561,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1260,
   "qtd_boas": 0,
+  "horas_necessarias": 12.6,
   "qtd_percentual": 0
  },
  {
@@ -9033,6 +9578,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1050,
   "qtd_boas": 0,
+  "horas_necessarias": 10.5,
   "qtd_percentual": 0
  },
  {
@@ -9049,6 +9595,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1050,
   "qtd_boas": 0,
+  "horas_necessarias": 3.5,
   "qtd_percentual": 0
  },
  {
@@ -9065,6 +9612,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.837,
   "qtd_percentual": 0
  },
  {
@@ -9081,6 +9629,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1050,
   "qtd_boas": 0,
+  "horas_necessarias": 10.5,
   "qtd_percentual": 0
  },
  {
@@ -9097,6 +9646,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1050,
   "qtd_boas": 0,
+  "horas_necessarias": 10.5,
   "qtd_percentual": 0
  },
  {
@@ -9113,6 +9663,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 170,
   "qtd_boas": 0,
+  "horas_necessarias": 1.977,
   "qtd_percentual": 0
  },
  {
@@ -9129,6 +9680,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.837,
   "qtd_percentual": 0
  },
  {
@@ -9145,6 +9697,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 180,
   "qtd_boas": 0,
+  "horas_necessarias": 1.5,
   "qtd_percentual": 0
  },
  {
@@ -9161,6 +9714,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 180,
   "qtd_boas": 0,
+  "horas_necessarias": 1,
   "qtd_percentual": 0
  },
  {
@@ -9177,6 +9731,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.837,
   "qtd_percentual": 0
  },
  {
@@ -9193,6 +9748,7 @@
   "operacao": "036 - SOLDAR PINO",
   "qtd_planej": 180,
   "qtd_boas": 0,
+  "horas_necessarias": 1.5,
   "qtd_percentual": 0
  },
  {
@@ -9209,6 +9765,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.857,
   "qtd_percentual": 0
  },
  {
@@ -9225,6 +9782,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2057,
   "qtd_boas": 1354,
+  "horas_necessarias": 1.406,
   "qtd_percentual": 0.658
  },
  {
@@ -9241,6 +9799,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.614,
   "qtd_percentual": 0
  },
  {
@@ -9257,6 +9816,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.614,
   "qtd_percentual": 0
  },
  {
@@ -9273,6 +9833,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 181,
+  "horas_necessarias": 0.992,
   "qtd_percentual": 0.603
  },
  {
@@ -9289,6 +9850,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.29,
   "qtd_percentual": 0
  },
  {
@@ -9299,12 +9861,13 @@
   "data_programa": "09\/21\/2022 21:01",
   "cod_equip": "SP-0469",
   "num_ordem": 12183175,
-  "ies_situa": 2,
+  "ies_situa": 4,
   "cod_item_cliente": 533207750,
   "cod_item": 870000328000,
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -9320,8 +9883,9 @@
   "cod_item": 870000320800,
   "operacao": "081 - CRAVAR PINO",
   "qtd_planej": 1200,
-  "qtd_boas": 510,
-  "qtd_percentual": 0.425
+  "qtd_boas": 900,
+  "horas_necessarias": 1.667,
+  "qtd_percentual": 0.75
  },
  {
   "cod_empresa": "12",
@@ -9337,6 +9901,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -9353,6 +9918,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -9369,23 +9935,8 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
- },
- {
-  "cod_empresa": "12",
-  "alerta": 0,
-  "sequencia": "34",
-  "num_programa": 28652,
-  "data_programa": "09\/21\/2022 21:38",
-  "cod_equip": "BM-0004",
-  "num_ordem": 12181711,
-  "ies_situa": 4,
-  "cod_item_cliente": 534898310,
-  "cod_item": 870000318400,
-  "operacao": "065 - COLAR COMPONENTE",
-  "qtd_planej": 96,
-  "qtd_boas": 96,
-  "qtd_percentual": 1
  },
  {
   "cod_empresa": "12",
@@ -9401,6 +9952,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 200,
   "qtd_boas": 200,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -9417,6 +9969,7 @@
   "operacao": "038 - MONTAR CJ. FINAL",
   "qtd_planej": 200,
   "qtd_boas": 200,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -9433,6 +9986,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 400,
   "qtd_boas": 0,
+  "horas_necessarias": 2.667,
   "qtd_percentual": 0
  },
  {
@@ -9449,6 +10003,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 720,
   "qtd_boas": 0,
+  "horas_necessarias": 80,
   "qtd_percentual": 0
  },
  {
@@ -9465,6 +10020,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 3283,
   "qtd_boas": 0,
+  "horas_necessarias": 13.132,
   "qtd_percentual": 0
  },
  {
@@ -9481,6 +10037,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.25,
   "qtd_percentual": 0
  },
  {
@@ -9497,6 +10054,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 12.5,
   "qtd_percentual": 0
  },
  {
@@ -9513,6 +10071,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 11.538,
   "qtd_percentual": 0
  },
  {
@@ -9529,6 +10088,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 2500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.778,
   "qtd_percentual": 0
  },
  {
@@ -9545,6 +10105,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 1000,
   "qtd_boas": 480,
+  "horas_necessarias": 4.063,
   "qtd_percentual": 0.48
  },
  {
@@ -9561,6 +10122,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 2.222,
   "qtd_percentual": 0
  },
  {
@@ -9577,6 +10139,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1620,
   "qtd_boas": 0,
+  "horas_necessarias": 1.434,
   "qtd_percentual": 0
  },
  {
@@ -9593,6 +10156,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1620,
   "qtd_boas": 0,
+  "horas_necessarias": 1.434,
   "qtd_percentual": 0
  },
  {
@@ -9609,6 +10173,7 @@
   "operacao": "047 - LAVAR PECAS",
   "qtd_planej": 7910,
   "qtd_boas": 0,
+  "horas_necessarias": 6.592,
   "qtd_percentual": 0
  },
  {
@@ -9625,6 +10190,7 @@
   "operacao": "039 - TAMBOREAR",
   "qtd_planej": 7910,
   "qtd_boas": 0,
+  "horas_necessarias": 6.592,
   "qtd_percentual": 0
  },
  {
@@ -9641,6 +10207,7 @@
   "operacao": "072 - MONTAR E TRAVAR",
   "qtd_planej": 7910,
   "qtd_boas": 0,
+  "horas_necessarias": 35.955,
   "qtd_percentual": 0
  },
  {
@@ -9657,6 +10224,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 144,
   "qtd_boas": 144,
+  "horas_necessarias": 0,
   "qtd_percentual": 1
  },
  {
@@ -9673,6 +10241,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.9,
   "qtd_percentual": 0
  },
  {
@@ -9689,6 +10258,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1.415,
   "qtd_percentual": 0
  },
  {
@@ -9705,6 +10275,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -9721,6 +10292,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1.415,
   "qtd_percentual": 0
  },
  {
@@ -9737,6 +10309,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -9753,6 +10326,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 0.9,
   "qtd_percentual": 0
  },
  {
@@ -9769,6 +10343,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 72,
   "qtd_boas": 0,
+  "horas_necessarias": 1.8,
   "qtd_percentual": 0
  },
  {
@@ -9785,6 +10360,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.676,
   "qtd_percentual": 0
  },
  {
@@ -9801,6 +10377,7 @@
   "operacao": "081 - CRAVAR PINO",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -9817,12 +10394,13 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1,
   "qtd_percentual": 0
  },
  {
   "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": "02",
+  "sequencia": "04",
   "num_programa": 28701,
   "data_programa": "09\/22\/2022 8:41",
   "cod_equip": "SP-0444",
@@ -9833,6 +10411,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1,
   "qtd_percentual": 0
  },
  {
@@ -9849,23 +10428,8 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 240,
   "qtd_boas": 239,
+  "horas_necessarias": 0.009,
   "qtd_percentual": 0.996
- },
- {
-  "cod_empresa": "12",
-  "alerta": 0,
-  "sequencia": "01",
-  "num_programa": 28703,
-  "data_programa": "09\/22\/2022 8:44",
-  "cod_equip": "GR-0001",
-  "num_ordem": 12194896,
-  "ies_situa": 2,
-  "cod_item_cliente": "534900930 LE",
-  "cod_item": 87000031760030,
-  "operacao": "207 - GRAVAR",
-  "qtd_planej": 400,
-  "qtd_boas": 0,
-  "qtd_percentual": 0
  },
  {
   "cod_empresa": "12",
@@ -9881,6 +10445,7 @@
   "operacao": "207 - GRAVAR",
   "qtd_planej": 400,
   "qtd_boas": 0,
+  "horas_necessarias": 2.222,
   "qtd_percentual": 0
  },
  {
@@ -9897,6 +10462,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 6,
   "qtd_percentual": 0
  },
  {
@@ -9913,6 +10479,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 6,
   "qtd_percentual": 0
  },
  {
@@ -9929,6 +10496,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -9945,6 +10513,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -9961,6 +10530,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 3.137,
   "qtd_percentual": 0
  },
  {
@@ -9977,6 +10547,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 3.137,
   "qtd_percentual": 0
  },
  {
@@ -9993,6 +10564,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -10009,6 +10581,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 15,
   "qtd_percentual": 0
  },
  {
@@ -10025,6 +10598,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 6.383,
   "qtd_percentual": 0
  },
  {
@@ -10041,6 +10615,7 @@
   "operacao": "043 - PONTEAR ABA",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 9.231,
   "qtd_percentual": 0
  },
  {
@@ -10057,6 +10632,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.653,
   "qtd_percentual": 0
  },
  {
@@ -10073,6 +10649,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.667,
   "qtd_percentual": 0
  },
  {
@@ -10089,6 +10666,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 25,
   "qtd_percentual": 0
  },
  {
@@ -10105,6 +10683,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.317,
   "qtd_percentual": 0
  },
  {
@@ -10121,6 +10700,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.426,
   "qtd_percentual": 0
  },
  {
@@ -10137,6 +10717,7 @@
   "operacao": "037 - MONTAR E SOLDAR MIG",
   "qtd_planej": 216,
   "qtd_boas": 0,
+  "horas_necessarias": 8,
   "qtd_percentual": 0
  },
  {
@@ -10153,6 +10734,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 1.667,
   "qtd_percentual": 0
  },
  {
@@ -10169,6 +10751,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 2400,
   "qtd_boas": 0,
+  "horas_necessarias": 2.667,
   "qtd_percentual": 0
  },
  {
@@ -10185,6 +10768,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 8000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.565,
   "qtd_percentual": 0
  },
  {
@@ -10201,6 +10785,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -10217,6 +10802,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.333,
   "qtd_percentual": 0
  },
  {
@@ -10233,6 +10819,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.509,
   "qtd_percentual": 0
  },
  {
@@ -10249,6 +10836,7 @@
   "operacao": "208 - SOLDAR PORCA E PARAFUSO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.509,
   "qtd_percentual": 0
  },
  {
@@ -10265,22 +10853,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 6623,
   "qtd_boas": 0,
-  "qtd_percentual": 0
- },
- {
-  "cod_empresa": "12",
-  "alerta": 0,
-  "sequencia": "07",
-  "num_programa": 28725,
-  "data_programa": "09\/22\/2022 9:17",
-  "cod_equip": "SP-0450",
-  "num_ordem": 12203736,
-  "ies_situa": 2,
-  "cod_item_cliente": 534898310,
-  "cod_item": 87000031840040,
-  "operacao": "035 - SOLDAR PORCA",
-  "qtd_planej": 240,
-  "qtd_boas": 0,
+  "horas_necessarias": 6.021,
   "qtd_percentual": 0
  },
  {
@@ -10297,6 +10870,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 240,
   "qtd_boas": 0,
+  "horas_necessarias": 1.935,
   "qtd_percentual": 0
  },
  {
@@ -10313,6 +10887,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3.75,
   "qtd_percentual": 0
  },
  {
@@ -10329,6 +10904,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -10345,6 +10921,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 15.385,
   "qtd_percentual": 0
  },
  {
@@ -10361,6 +10938,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 4000,
   "qtd_boas": 0,
+  "horas_necessarias": 15.385,
   "qtd_percentual": 0
  },
  {
@@ -10377,6 +10955,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 800,
   "qtd_boas": 540,
+  "horas_necessarias": 1.13,
   "qtd_percentual": 0.675
  },
  {
@@ -10393,6 +10972,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4200,
   "qtd_boas": 0,
+  "horas_necessarias": 2.8,
   "qtd_percentual": 0
  },
  {
@@ -10409,6 +10989,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4200,
   "qtd_boas": 0,
+  "horas_necessarias": 2.8,
   "qtd_percentual": 0
  },
  {
@@ -10425,6 +11006,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 3.636,
   "qtd_percentual": 0
  },
  {
@@ -10441,6 +11023,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -10457,6 +11040,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 600,
   "qtd_boas": 0,
+  "horas_necessarias": 2,
   "qtd_percentual": 0
  },
  {
@@ -10473,6 +11057,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 1.667,
   "qtd_percentual": 0
  },
  {
@@ -10489,6 +11074,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
@@ -10505,6 +11091,7 @@
   "operacao": "014 - REPUXAR",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 1.667,
   "qtd_percentual": 0
  },
  {
@@ -10521,12 +11108,13 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 500,
   "qtd_boas": 0,
+  "horas_necessarias": 2.5,
   "qtd_percentual": 0
  },
  {
   "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": "03",
+  "sequencia": "05",
   "num_programa": 28784,
   "data_programa": "09\/22\/2022 13:43",
   "cod_equip": "SP-0444",
@@ -10537,6 +11125,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 250,
   "qtd_boas": 0,
+  "horas_necessarias": 1.136,
   "qtd_percentual": 0
  },
  {
@@ -10553,6 +11142,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 3612,
   "qtd_boas": 1513,
+  "horas_necessarias": 12.347,
   "qtd_percentual": 0.419
  },
  {
@@ -10569,6 +11159,7 @@
   "operacao": "011 - ESTAMPAR EM 07 ESTAGIOS",
   "qtd_planej": 3612,
   "qtd_boas": 1507,
+  "horas_necessarias": 12.382,
   "qtd_percentual": 0.417
  },
  {
@@ -10585,6 +11176,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 5000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.25,
   "qtd_percentual": 0
  },
  {
@@ -10601,6 +11193,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 4.762,
   "qtd_percentual": 0
  },
  {
@@ -10617,6 +11210,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 4424,
   "qtd_boas": 880,
+  "horas_necessarias": 4.43,
   "qtd_percentual": 0.199
  },
  {
@@ -10633,6 +11227,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 540,
   "qtd_boas": 0,
+  "horas_necessarias": 60,
   "qtd_percentual": 0
  },
  {
@@ -10649,6 +11244,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 9950,
   "qtd_boas": 0,
+  "horas_necessarias": 11.056,
   "qtd_percentual": 0
  },
  {
@@ -10665,6 +11261,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 1685,
   "qtd_boas": 0,
+  "horas_necessarias": 1.915,
   "qtd_percentual": 0
  },
  {
@@ -10681,6 +11278,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 360,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -10697,6 +11295,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 360,
   "qtd_boas": 0,
+  "horas_necessarias": 3,
   "qtd_percentual": 0
  },
  {
@@ -10713,6 +11312,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 120,
   "qtd_boas": 0,
+  "horas_necessarias": 1.2,
   "qtd_percentual": 0
  },
  {
@@ -10729,6 +11329,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 120,
   "qtd_boas": 0,
+  "horas_necessarias": 0.6,
   "qtd_percentual": 0
  },
  {
@@ -10745,6 +11346,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1200,
   "qtd_boas": 0,
+  "horas_necessarias": 5.714,
   "qtd_percentual": 0
  },
  {
@@ -10761,6 +11363,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 300,
   "qtd_boas": 0,
+  "horas_necessarias": 1.154,
   "qtd_percentual": 0
  },
  {
@@ -10777,6 +11380,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 360,
   "qtd_boas": 0,
+  "horas_necessarias": 1.385,
   "qtd_percentual": 0
  },
  {
@@ -10793,6 +11397,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.069,
   "qtd_percentual": 0
  },
  {
@@ -10809,6 +11414,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.069,
   "qtd_percentual": 0
  },
  {
@@ -10825,6 +11431,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.448,
   "qtd_percentual": 0
  },
  {
@@ -10841,6 +11448,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -10857,6 +11465,7 @@
   "operacao": "007 - ESTAMPAR EM 03 ESTAGIOS",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 8.333,
   "qtd_percentual": 0
  },
  {
@@ -10873,6 +11482,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -10889,6 +11499,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 5.797,
   "qtd_percentual": 0
  },
  {
@@ -10905,6 +11516,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 1000,
   "qtd_boas": 0,
+  "horas_necessarias": 25.641,
   "qtd_percentual": 0
  },
  {
@@ -10921,6 +11533,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 7.5,
   "qtd_percentual": 0
  },
  {
@@ -10937,6 +11550,7 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 120,
   "qtd_boas": 0,
+  "horas_necessarias": 0.6,
   "qtd_percentual": 0
  },
  {
@@ -10953,6 +11567,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 120,
   "qtd_boas": 0,
+  "horas_necessarias": 1.2,
   "qtd_percentual": 0
  },
  {
@@ -10969,6 +11584,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 1246,
   "qtd_boas": 0,
+  "horas_necessarias": 4.598,
   "qtd_percentual": 0
  },
  {
@@ -10985,6 +11601,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 6.757,
   "qtd_percentual": 0
  },
  {
@@ -11001,6 +11618,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.043,
   "qtd_percentual": 0
  },
  {
@@ -11017,6 +11635,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 13.043,
   "qtd_percentual": 0
  },
  {
@@ -11033,6 +11652,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1260,
   "qtd_boas": 0,
+  "horas_necessarias": 4.2,
   "qtd_percentual": 0
  },
  {
@@ -11049,6 +11669,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 1260,
   "qtd_boas": 0,
+  "horas_necessarias": 4.2,
   "qtd_percentual": 0
  },
  {
@@ -11065,6 +11686,7 @@
   "operacao": "003 - CORTAR BLANK",
   "qtd_planej": 6000,
   "qtd_boas": 0,
+  "horas_necessarias": 2.308,
   "qtd_percentual": 0
  },
  {
@@ -11081,6 +11703,7 @@
   "operacao": "009 - ESTAMPAR EM 05 ESTAGIOS",
   "qtd_planej": 1700,
   "qtd_boas": 0,
+  "horas_necessarias": 6.8,
   "qtd_percentual": 0
  },
  {
@@ -11097,6 +11720,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 479,
   "qtd_boas": 0,
+  "horas_necessarias": 3.193,
   "qtd_percentual": 0
  },
  {
@@ -11113,6 +11737,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 847,
   "qtd_boas": 0,
+  "horas_necessarias": 5.647,
   "qtd_percentual": 0
  },
  {
@@ -11129,6 +11754,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 321,
   "qtd_boas": 0,
+  "horas_necessarias": 2.469,
   "qtd_percentual": 0
  },
  {
@@ -11145,6 +11771,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -11161,6 +11788,7 @@
   "operacao": "008 - ESTAMPAR EM 04 ESTAGIOS",
   "qtd_planej": 1500,
   "qtd_boas": 0,
+  "horas_necessarias": 7.143,
   "qtd_percentual": 0
  },
  {
@@ -11177,6 +11805,7 @@
   "operacao": "065 - COLAR COMPONENTE",
   "qtd_planej": 1600,
   "qtd_boas": 0,
+  "horas_necessarias": 22.857,
   "qtd_percentual": 0
  },
  {
@@ -11193,6 +11822,7 @@
   "operacao": "006 - ESTAMPAR EM 02 ESTAGIOS",
   "qtd_planej": 220,
   "qtd_boas": 0,
+  "horas_necessarias": 0.88,
   "qtd_percentual": 0,
   "obs_alerta": "MUITO CUIDADO ESSA OP VIRA P8"
  },
@@ -11210,6 +11840,7 @@
   "operacao": "016 - FURAR",
   "qtd_planej": 220,
   "qtd_boas": 0,
+  "horas_necessarias": 0.88,
   "qtd_percentual": 0,
   "obs_alerta": "MUITO CUIDADO ESSA OP VIRA P8"
  },
@@ -11227,6 +11858,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 15000,
   "qtd_boas": 0,
+  "horas_necessarias": 66.667,
   "qtd_percentual": 0
  },
  {
@@ -11243,6 +11875,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 900,
   "qtd_boas": 0,
+  "horas_necessarias": 29.032,
   "qtd_percentual": 0
  },
  {
@@ -11259,6 +11892,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 900,
   "qtd_boas": 0,
+  "horas_necessarias": 29.032,
   "qtd_percentual": 0
  },
  {
@@ -11275,6 +11909,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 25,
   "qtd_percentual": 0
  },
  {
@@ -11291,6 +11926,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 800,
   "qtd_boas": 0,
+  "horas_necessarias": 25,
   "qtd_percentual": 0
  },
  {
@@ -11307,6 +11943,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 2000,
   "qtd_boas": 0,
+  "horas_necessarias": 20,
   "qtd_percentual": 0
  },
  {
@@ -11323,6 +11960,7 @@
   "operacao": "004 - ESTAMPAR CPL. PROGRESSIVA",
   "qtd_planej": 3000,
   "qtd_boas": 0,
+  "horas_necessarias": 3.333,
   "qtd_percentual": 0
  },
  {
@@ -11339,6 +11977,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 0,
+  "horas_necessarias": 36.842,
   "qtd_percentual": 0
  },
  {
@@ -11355,6 +11994,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 700,
   "qtd_boas": 0,
+  "horas_necessarias": 36.842,
   "qtd_percentual": 0
  },
  {
@@ -11371,12 +12011,13 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 200,
   "qtd_boas": 0,
+  "horas_necessarias": 7.407,
   "qtd_percentual": 0
  },
  {
   "cod_empresa": "12",
   "alerta": 0,
-  "sequencia": "04",
+  "sequencia": "06",
   "num_programa": 28786,
   "data_programa": "09\/22\/2022 13:43",
   "cod_equip": "SP-0444",
@@ -11387,6 +12028,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 250,
   "qtd_boas": 0,
+  "horas_necessarias": 1.136,
   "qtd_percentual": 0
  },
  {
@@ -11403,6 +12045,7 @@
   "operacao": "055 - MONTAR COMP.E SOLDAR PONTO",
   "qtd_planej": 200,
   "qtd_boas": 0,
+  "horas_necessarias": 7.407,
   "qtd_percentual": 0
  },
  {
@@ -11419,6 +12062,7 @@
   "operacao": "035 - SOLDAR PORCA",
   "qtd_planej": 168,
   "qtd_boas": 0,
+  "horas_necessarias": 1.6,
   "qtd_percentual": 0
  },
  {
@@ -11435,6 +12079,75 @@
   "operacao": "060 - SOLDAR PARAFUSO PROJECAO",
   "qtd_planej": 168,
   "qtd_boas": 0,
+  "horas_necessarias": 1.355,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": "02",
+  "num_programa": 28790,
+  "data_programa": "09\/22\/2022 14:43",
+  "cod_equip": "SP-0444",
+  "num_ordem": 12199118,
+  "ies_situa": 4,
+  "cod_item_cliente": "519000180 LD",
+  "cod_item": 870000323803,
+  "operacao": "035 - SOLDAR PORCA",
+  "qtd_planej": 500,
+  "qtd_boas": 0,
+  "horas_necessarias": 1.111,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": "03",
+  "num_programa": 28791,
+  "data_programa": "09\/22\/2022 14:44",
+  "cod_equip": "SP-0444",
+  "num_ordem": 12199262,
+  "ies_situa": 4,
+  "cod_item_cliente": "519002640 LE",
+  "cod_item": 870000323903,
+  "operacao": "035 - SOLDAR PORCA",
+  "qtd_planej": 500,
+  "qtd_boas": 0,
+  "horas_necessarias": 1.111,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": "38",
+  "num_programa": 28792,
+  "data_programa": "09\/22\/2022 14:45",
+  "cod_equip": "RP-0003",
+  "num_ordem": 12194117,
+  "ies_situa": 4,
+  "cod_item_cliente": "534164540 LD",
+  "cod_item": 870000324000,
+  "operacao": "038 - MONTAR CJ. FINAL",
+  "qtd_planej": 400,
+  "qtd_boas": 0,
+  "horas_necessarias": 5.797,
+  "qtd_percentual": 0
+ },
+ {
+  "cod_empresa": "12",
+  "alerta": 0,
+  "sequencia": "38",
+  "num_programa": 28792,
+  "data_programa": "09\/22\/2022 14:45",
+  "cod_equip": "RP-0003",
+  "num_ordem": 12194138,
+  "ies_situa": 4,
+  "cod_item_cliente": "534164550 LE",
+  "cod_item": 870000324100,
+  "operacao": "038 - MONTAR CJ. FINAL",
+  "qtd_planej": 400,
+  "qtd_boas": 0,
+  "horas_necessarias": 5.797,
   "qtd_percentual": 0
  }
 ]

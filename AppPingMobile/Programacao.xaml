@@ -63,6 +63,8 @@
                                             <Label Text="{Binding Qtd_boas}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                             <Label Text="Percentual:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
                                             <Label Text="{Binding Qtd_percentual, StringFormat='{0:P2}'}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                            <Label Text="Horas Necessárias:" Margin="5,0,0,0" TextColor="Black" FontSize="10"/>
+                                            <Label Text="{Binding Horas_necessarias, StringFormat='{0:N2}'}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
                                         </StackLayout>
                                     </Frame>
                                     <Frame Padding="8">
