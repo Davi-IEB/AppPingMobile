@@ -8,9 +8,9 @@ namespace AppPingMobile.Servico
 {
     public class ServicoDeDados
     {
-        private const string RequestUriCentros = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/centros.json";
-        private const string RequestUriMaquinas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/maquinas.json";
-        private const string RequestUriProgramas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/programacao.json";
+        private const string RequestUriCentros = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/AppJson/centros.json";
+        private const string RequestUriMaquinas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/AppJson/maquinas.json";
+        private const string RequestUriProgramas = "https://raw.githubusercontent.com/Davi-IEB/AppPingMobile/master/AppJson/programacao.json";
         HttpClient centros = new HttpClient();
         HttpClient maquinas = new HttpClient();
         HttpClient programas = new HttpClient();
