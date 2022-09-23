@@ -19,6 +19,7 @@ namespace AppPingMobile
         ServicoDeDados dataService;
         List<Maquina> maquinas;
         ViewCell cell;
+        
 
         public class MultiTriggerConverter : IValueConverter
         {
@@ -44,7 +45,7 @@ namespace AppPingMobile
             AtualizaDados();
         }
         private async void AtualizaDados()
-        {
+        {            
             HorasDisponiveis();
             maquinas = await dataService.GetMaquinasAsync();
             foreach (var i in maquinas)
@@ -65,9 +66,33 @@ namespace AppPingMobile
                     i.StatusPercentual = "Black";
                 }
             }
-            var query = from i in maquinas where i.Cod_empresa==Empresas.Empresa.ToString() && i.Cod_cent_trab==Empresas.Centro.ToString() select i;
-            lvMaquinas.ItemsSource = query;
-            lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString() + "/" + Empresas.Setor.ToString() + "/" + Empresas.Centro.ToString();
+            if (CentroSolicitacao.Solicitacao.ToString() == "maquinas")
+            {
+                var query = from i in maquinas where i.Cod_empresa == Empresas.Empresa.ToString() && i.Cod_cent_trab == Empresas.Centro.ToString() select i;
+                lvMaquinas.ItemsSource = query;
+                lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString() + "/" + Empresas.Setor.ToString() + "/" + Empresas.Centro.ToString();
+
+            }else if(CentroSolicitacao.Solicitacao.ToString() == "maquinas_criticas")
+            {                
+                if (Empresas.Setor.ToString() == "ESTAMPARIA")
+                {
+                    var query = from i in maquinas where i.Cod_empresa == Empresas.Empresa.ToString() && i.Cod_cent_trab.Substring(0, 2).ToString() == "93" && (float)i.Percentual >= 0.9 select i;
+                    lvMaquinas.ItemsSource = query;
+
+                }
+                else if(Empresas.Setor.ToString() == "SOLDA")
+                {
+                    var query = from i in maquinas where i.Cod_empresa == Empresas.Empresa.ToString() && i.Cod_cent_trab.Substring(0, 2).ToString() == "95" && (float)i.Percentual >= 0.9 select i;
+                    lvMaquinas.ItemsSource = query;
+
+                }
+                else if(Empresas.Setor.ToString() == "USINAGEM")
+                {
+                    var query = from i in maquinas where i.Cod_empresa == Empresas.Empresa.ToString() && (i.Cod_cent_trab.Substring(0, 2).ToString() == "94" || i.Cod_cent_trab.Substring(0, 2).ToString() == "96") && (float)i.Percentual >= 0.9 select i;
+                    lvMaquinas.ItemsSource = query;
+                }
+                lblCaminho.Text = "Caminho://ITAESBRA/" + Empresas.Empresa.ToString() + "/" + Empresas.Setor.ToString();
+            }            
         }
         private void lvMaquinas_ItemTapped(object sender, ItemTappedEventArgs e)
         {

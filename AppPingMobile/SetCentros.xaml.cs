@@ -34,6 +34,7 @@ namespace AppPingMobile
             if (sender is ListView list) list.BackgroundColor = Color.Transparent;
             var cent = e.Item as Centros;
             Empresas.Centro = cent.Cod_cent_trab;
+            CentroSolicitacao.Solicitacao = "maquinas";
             await Navigation.PushAsync(new Maquinas());
         }
         private void Linha_Tapped(object sender, EventArgs e)
@@ -47,6 +48,12 @@ namespace AppPingMobile
                 
                 cell = viewCell;
             }
+        }
+
+        private async void BtnCapacidadeCritica_Clicked(object sender, EventArgs e)
+        {
+            CentroSolicitacao.Solicitacao = "maquinas_criticas";
+            await Navigation.PushAsync(new Maquinas());
         }
     }
 

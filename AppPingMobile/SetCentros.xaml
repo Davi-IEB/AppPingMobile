@@ -14,9 +14,31 @@
                 <Image Grid.Column="1" Source="LogoIebBranco" HorizontalOptions="Start" HeightRequest="50"/>
             </Frame>
             <Label x:Name="lblCaminho" Text=""/>
+            <ImageButton 
+                x:Name="BtnCapacidadeCritica"
+                Source="maquina_critica"
+                BackgroundColor="GhostWhite"
+                Margin="0,0,30,0"
+                HeightRequest="80"
+                WidthRequest="300"
+                HorizontalOptions="EndAndExpand"
+                Padding="5"
+                Clicked="BtnCapacidadeCritica_Clicked"
+                android:ImageButton.IsShadowEnabled="true"
+                android:ImageButton.ShadowColor="Gray"
+                android:ImageButton.ShadowRadius="12">
+                <android:ImageButton.ShadowOffset>
+                    <Size>
+                        <x:Arguments>
+                            <x:Double>10</x:Double>
+                            <x:Double>10</x:Double>
+                        </x:Arguments>
+                    </Size>
+                </android:ImageButton.ShadowOffset>
+            </ImageButton>
             <ListView 
                 x:Name="lvCentros"
-                Margin="30,30,30,0"
+                Margin="30,10,30,0"
                 RowHeight="120"            
                 VerticalScrollBarVisibility="Always"
                 SelectionMode="Single"

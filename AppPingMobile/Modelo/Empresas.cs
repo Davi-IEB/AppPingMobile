@@ -45,6 +45,16 @@ namespace AppPingMobile.Modelo
         public string Caminho_empresa { get; set; }
     }
 
+    public class CentroSolicitacao
+    {
+        private static string _centro_solicitacao;
+        public static string Solicitacao
+        {
+            get { return _centro_solicitacao; }
+            set { _centro_solicitacao = value; }
+        }
+    }
+
 
     
 }
