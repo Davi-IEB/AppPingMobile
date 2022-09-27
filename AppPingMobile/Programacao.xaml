@@ -44,18 +44,42 @@
                                         </StackLayout>
                                     </Frame>
                                     <Frame Padding="8">
-                                        <Grid RowDefinitions="*,*">
-                                            <StackLayout Grid.Row="0" Orientation="Horizontal">
-                                                <Label Text="PartNumber:" TextColor="Black" FontSize="10"/>
-                                                <Label Text="{Binding Cod_item_cliente}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                                <Label Text="Logix:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
-                                                <Label Text="{Binding Cod_item}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>                                                
-                                            </StackLayout>
-                                            <StackLayout Grid.Row="1" Orientation="Horizontal">
-                                                <Label Text="Operação:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
-                                                <Label Text="{Binding Operacao}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
-                                            </StackLayout>
-                                        </Grid>
+                                        <Grid ColumnDefinitions="*,100">
+                                            <Grid Grid.Column="0" RowDefinitions="*,*">
+                                                <StackLayout Grid.Row="0" Orientation="Horizontal">
+                                                    <Label Text="PartNumber:" TextColor="Black" FontSize="10"/>
+                                                    <Label Text="{Binding Cod_item_cliente}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                                    <Label Text="Logix:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
+                                                    <Label Text="{Binding Cod_item}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                                </StackLayout>
+                                                <StackLayout Grid.Row="1" Orientation="Horizontal">
+                                                    <Label Text="Operação:" Margin="2,0,0,0" TextColor="Black" FontSize="10"/>
+                                                    <Label Text="{Binding Operacao}" TextColor="Black" FontSize="12" FontAttributes="Bold"/>
+                                                </StackLayout>
+                                            </Grid>
+                                            <StackLayout Grid.Column="1" Orientation="Horizontal">
+                                                <ImageButton
+                                                x:Name="BtnDetalhe" 
+                                                Source="details"
+                                                BackgroundColor="GhostWhite"
+                                                HeightRequest="40"
+                                                WidthRequest="40"
+                                                Padding="4"
+                                                Clicked="BtnDetalhe_Clicked">
+
+                                                </ImageButton>
+                                                <ImageButton
+                                                x:Name="BtnDocumento"
+                                                Source="adobe"
+                                                BackgroundColor="GhostWhite"
+                                                HeightRequest="40"
+                                                WidthRequest="40"
+                                                    Padding="7"
+                                                Clicked="BtnDocumento_Clicked">
+                                                    
+                                                </ImageButton>                                               
+                                            </StackLayout>                                            
+                                        </Grid>                                        
                                     </Frame>
                                     <Frame Padding="8">
                                         <StackLayout Orientation="Horizontal">
@@ -95,10 +119,10 @@
                                     </Frame>
                                 </StackLayout>                                                   
                             </StackLayout>
-                            <ViewCell.ContextActions>                                
+                            <!--<ViewCell.ContextActions>                                
                                 <MenuItem x:Name="BtnDetalhes" Text="Detalhes" CommandParameter="{Binding .}" Clicked="BtnDetalhes_Clicked" IconImageSource="detail.png"/>
                                 <MenuItem x:Name="BtnDocumentacao" Text="Documentação" CommandParameter="{Binding .}" Clicked="BtnDocumentacao_Clicked" IconImageSource="adobe.png"/>
-                            </ViewCell.ContextActions>
+                            </ViewCell.ContextActions>-->
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

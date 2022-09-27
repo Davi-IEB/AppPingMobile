@@ -41,14 +41,14 @@ namespace AppPingMobile
             }
         }
 
-        private async void BtnDetalhes_Clicked(object sender, System.EventArgs e)
-        {
-            await Navigation.PushAsync(new Detalhes());
-        }
-
-        private async void BtnDocumentacao_Clicked(object sender, System.EventArgs e)
+        private async void BtnDocumento_Clicked(object sender, System.EventArgs e)
         {
             await Navigation.PushAsync(new Documentacao());
+        }
+
+        private async void BtnDetalhe_Clicked(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Detalhes());
         }
     }
 }
