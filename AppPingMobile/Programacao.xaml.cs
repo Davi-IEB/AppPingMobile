@@ -26,7 +26,7 @@ namespace AppPingMobile
             programas = await dataService.GetProgramaAsync(); 
             foreach(var s in programas)
             {
-                s.Img = Convert.ToString("i" + s.Cod_item.ToString());
+                s.Img = Convert.ToString("img" + s.Cod_item.ToString());
             }
             var query = from i in programas where i.Cod_empresa == Empresas.Empresa.ToString() && i.Cod_equip == Empresas.Maquina.ToString() select i; 
             LvPrograma.ItemsSource = query.OrderBy(x => x.Sequencia.ToString());            
@@ -46,12 +46,10 @@ namespace AppPingMobile
                 cell = viewCell;
             }
         }
-
         private async void BtnDocumento_Clicked(object sender, System.EventArgs e)
         {
             await Navigation.PushAsync(new Documentacao());
         }
-
         private async void BtnDetalhe_Clicked(object sender, System.EventArgs e)
         {
             await Navigation.PushAsync(new Detalhes());
